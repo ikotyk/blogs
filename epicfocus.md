@@ -11,10 +11,11 @@
   - Nothing to show during the sprint review
 - A lot of waste (VSM)
 ## Metrics
+- Insigt into maintenance/tech debt cost
 - Grow team speed
 - Reduce context switching waste time
-  - Referrence to Jeff Sutherland's book - cost of context switching
-- Insigt into maintenance/tech debt cost
+## Context switching
+- Referrence to Jeff Sutherland's book - cost of context switching
 ## Solutions
 - Target and why it is bad
 - Focus
