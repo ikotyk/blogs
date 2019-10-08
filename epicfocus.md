@@ -1,3 +1,26 @@
+# Progress
+- [X] Create a framework
+- [X] Value stream
+- [X] Metrics
+- [ ] Create introduction
+- [ ] Create Symptoms
+- [ ] Context switching
+- [ ] Research the research on context switching
+- [ ] Solutions
+- [ ] Ending
+- [ ] Add images
+- [ ] Check with grammarly
+- [ ] Editing - second iteration on each section
+- [ ] Review
+- [ ] Fix comments
+- [ ] Come up with the title
+- [ ] Consider SEO
+- [ ] Move it to wordpress and publish
+- [ ] Distribute via social media, etc.
+- [ ] Celebrate
+- [ ] Measure # of views every day, drink if it is low :(
+
+
 # How to assess your team focus / Focused team is a happy team / Driving engagement by creating focus
 ## Delive value faster
 ## Symptoms
