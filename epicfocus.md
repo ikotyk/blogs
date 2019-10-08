@@ -9,6 +9,9 @@
 - No clear sprint goal
   - Nothing to get feedback from stakeholders
   - Nothing to show during the sprint review
+## Value stream
+
+
 - A lot of waste (VSM)
   - https://xebia.com/blog/how-to-create-a-value-stream-map/
 ## Metrics
