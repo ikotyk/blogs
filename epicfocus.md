@@ -21,14 +21,22 @@ Excersize similar to mapping the VSM could be performed against your backlog. Yo
 You can go further and drill down into what is on your non-value adding product backlog items and understand what is the underlying issue there, maybe you have a lot of bugs and there is a quality problem, or maybe it is a tech debt that's holding you back and doesn't allow to extend the product. 
 Having this data, you can get an idea of your team speed if you devide amount of work done by number of days whithing which it was completed.
 You can go further and measure the speed of individual features to see if you can support your perception of slowness with data.
-#### 2. Epic items speed (items per day)
+#### 2. Speed of the feature(s) (items per day)
+Make an assumption that epics are value adding
 Image with the epic speed vs total speed.
+How does it compare to the total speed? Is it even close? Or those two are far apart? If your answer to this question is yes, you might want to find out why this is the case. There's is a lot of different routes you can take from here, for example, you could start looking into the actual content of the slow features. In our context we opted for a different route.
+Given the symptoms we discussed earlier, the perception of slowness, which is now backed by data, the lack of collaboration, and the unclear sprint goal, we decided to look into parrallel work. 
 
+// This comparison can either give you some answers or raise more questions.
 #### 3. Number of parallel value adding contexts
+Image with the gantt chart and parallel features
+By plotting the work on the different value adding contexts over time you can see where work on these different contexts overlap. Working on different contexts in the same timeframe suggests context switching. 
 ## Context switching
+Most likely you already know that context switching is not your friend but rather an enemy that is stealing your time without you noticing it. And this claim is backed by the research.
+Image of waste precentage from switching context.
+
 - Referrence to Jeff Sutherland's book - cost of context switching
 https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/038534645X
-Image of waste precentage from switching context.
 
 To get fron context switching to focus:
 
