@@ -22,6 +22,8 @@
 - WIP limit
 - Focus on right stuff
 - Budget(%/%)
+  - https://hackernoon.com/how-to-define-and-spend-your-tech-debt-budget-8429z32h2
+  - https://xebia.com/blog/using-metrics-to-find-the-pain-points-in-a-legacy-codebase/
 ## Dream of engagement
 - Energy
 
