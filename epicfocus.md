@@ -6,10 +6,11 @@
   - Everything in progress and nothing is done
 - No collaboration
   - Not forced to connect due to lot of different topics
-- No clear spring goal
+- No clear sprint goal
   - Nothing to get feedback from stakeholders
   - Nothing to show during the sprint review
 - A lot of waste (VSM)
+  - https://xebia.com/blog/how-to-create-a-value-stream-map/
 ## Metrics
 1. Value adding vs non-value adding product backlog items (Epic stuff vs other stuff)
 2. Epic items speed (items per day)
