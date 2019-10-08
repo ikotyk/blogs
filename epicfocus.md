@@ -29,9 +29,9 @@
   - Everything in progress and nothing is done
 - No collaboration
   - Not forced to connect due to lot of different topics
-- No clear sprint goal
+- Team has nothing to show during the sprint review
   - Nothing to get feedback from stakeholders
-  - Nothing to show during the sprint review
+  - 
 ## Value stream
 One way to examine your development process is to [create a value stream map or VSM](https://xebia.com/blog/how-to-create-a-value-stream-map/). It is basically an inventory of all the activities that happen before a piece of software hits production. You also want to know how much time each of the activities take. Once you have that, you can put them in two buckets: value adding activities and non-value adding or waste. Give examples of activities of each category.
 Of course you still don't know what items are valuable by themselves. For that you need another metric.
@@ -73,6 +73,7 @@ Resource utilization trap: https://www.youtube.com/watch?v=CostXs2p6r0
   - https://hackernoon.com/how-to-define-and-spend-your-tech-debt-budget-8429z32h2
   - https://xebia.com/blog/using-metrics-to-find-the-pain-points-in-a-legacy-codebase/
 ## Dream of engagement
+
 - Energy
 
 To get from focus to engagement:
