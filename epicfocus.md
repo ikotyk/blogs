@@ -10,12 +10,13 @@
   - Nothing to get feedback from stakeholders
   - Nothing to show during the sprint review
 ## Value stream
-
-
-- A lot of waste (VSM)
-  - https://xebia.com/blog/how-to-create-a-value-stream-map/
+One way to examine your development process is to [create a value stream map or VSM](https://xebia.com/blog/how-to-create-a-value-stream-map/). It is basically an inventory of all the activities that happen before a piece of software hits production. You also want to know how much time each of the activities take. Once you have that, you can put them in two buckets: value adding activities and non-value adding or waste. 
+Of course you still don't know what items are valuable by themselves. For that you need another metric.
+waste in the process
 ## Metrics
 1. Value adding vs non-value adding product backlog items (Epic stuff vs other stuff)
+waste in the content
+
 2. Epic items speed (items per day)
 3. Number of parallel value adding contexts
 ## Context switching
