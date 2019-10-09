@@ -18,11 +18,13 @@
 - [ ] Move it to wordpress and publish
 - [ ] Distribute via social media, etc.
 - [ ] Celebrate
-- [ ] Measure # of views every day, drink if it is low :(
+- [ ] Measure # of views every day, drink if it is high :), drink if it is low :(
 
 
 # How to assess your team focus / Focused team is a happy team / Driving engagement by creating focus
-## Delive value faster
+## Deliver value faster
+There are a bunch of recurring wishes our clients bring to us, one of which is speed. There is no dial you can turn to delivery value faster, software teams are not like cars, there's no acceleration paddle. Even if we try to speed up by adding more resources, in many cases the bottleneck will just become more apperent.
+In our search for increased delivery of value, we go hunt for these bottlenecks. No two contexts are the same, and for this story we have a certain context in mind. However, symptoms in different organisations are often similar and our story might apply to your context if you recognise the problems we encountered.
 ## Symptoms
 - Perception of slowness
   - Poorly refined work
