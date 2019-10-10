@@ -2,7 +2,7 @@
 - [X] Create a framework
 - [X] Value stream
 - [X] Metrics
-- [ ] Create introduction
+- [X] Create introduction
 - [ ] Create Symptoms
 - [ ] Context switching
 - [ ] Research the research on context switching
