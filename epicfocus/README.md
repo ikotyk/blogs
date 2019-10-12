@@ -37,7 +37,7 @@ Competitor delivers features that are still on your future roadmap. When you loo
 
 
 ### Lack of or no collaboration
-Collaboration is the action of working with someone to produce something. It happens via an exchange of ideas and leads to creation of new and enhanced ideas to produce best designs and best software, it is a sourse of creativity, innovation and promotes healthy employee relationships. You know it is part of your culture if you often observe people working together behind one computer, people communicate face to face within teams and outside, people ask for or offer help. These should help you answer if this symptom is present in your company.
+Collaboration is the action of working with someone to produce something. It happens via an exchange of ideas and leads to creation of new and enhanced ideas and allows you to produce best designs and best software. Collaboration is a sourse of creativity, innovation and promotes healthy employee relationships. You know it is part of your culture if you often observe people working together behind one computer, people communicate face to face within teams and outside, people ask for or offer help. These should help you answer if this symptom is present in your company.
   - Not forced to connect due to lot of different topics
 
 ### Team has nothing to show during the sprint review
