@@ -3,7 +3,7 @@
 - [X] Value stream
 - [X] Metrics
 - [X] Create introduction
-- [ ] Create Symptoms
+- [I] Create Symptoms
 - [ ] Context switching
 - [ ] Research the research on context switching
 - [ ] Solutions
@@ -26,10 +26,20 @@
 There are a bunch of recurring wishes our clients bring to us, one of which is speed. There is no dial you can turn to delivery value faster, software teams are not like cars, there's no acceleration paddle. Even if we try to speed up by adding more resources, in many cases the bottleneck will just become more apperent.
 In our search for increased delivery of value, we go hunt for these bottlenecks. No two contexts are the same, and for this story we have a certain context in mind. However, symptoms in different organisations are often similar and our story might apply to your context if you recognise the problems we encountered.
 ## Symptoms
-- Perception of slowness
-  - Poorly refined work
-  - Everything in progress and nothing is done
-- No collaboration
+There might be numerous symptoms you observe in your organization, but today, for our story, we would like to bring your attention to the following three:
+  - Perception of slowness
+  - Lack of or no collaboration
+  - There is nothing to show during the sprint review
+  
+  - Perception of slowness
+Speed is a new currency. Every business knows that to compete they have to be faster, faster than their competition. Therefore, lack of speed is noticed quite quikly. 
+Competitor delivers features that are still on your future roadmap. When you look back, you struggle to answer what was built last quarter or even last year. You talk to development teams and you hear them complaining that requirements are unclear. You look at their sprint board and you see that everything is in progrees, but only few items are done; teams often don't make the sprint and spill it over to the next one.
+
+
+  - Lack of or no collaboration
+Collaboration is the action of working with someone to produce something. It happens via an exchange of ideas and leads to creation of new and enhanced ideas to produce best designs and best software, it is a sourse of creativity, innovation and promotes healthy employee relationships. You know it is part of your culture if you often observe people working together behind one computer, people communicate face to face within teams and outside, people ask for or offer help. These should help you answer if this symptom is present in your company.
+
+
   - Not forced to connect due to lot of different topics
 - Team has nothing to show during the sprint review
   - Nothing to get feedback from stakeholders
