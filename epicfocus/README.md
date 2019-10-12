@@ -27,23 +27,22 @@ There are a bunch of recurring wishes our clients bring to us, one of which is s
 In our search for increased delivery of value, we go hunt for these bottlenecks. No two contexts are the same, and for this story we have a certain context in mind. However, symptoms in different organisations are often similar and our story might apply to your context if you recognise the problems we encountered.
 ## Symptoms
 There might be numerous symptoms you observe in your organization, but today, for our story, we would like to bring your attention to the following three:
-  - Perception of slowness
-  - Lack of or no collaboration
-  - There is nothing to show during the sprint review
+ 1. Perception of slowness
+ 2. Lack of or no collaboration
+ 3. There is nothing to show during the sprint review
   
-  - Perception of slowness
+### Perception of slowness
 Speed is a new currency. Every business knows that to compete they have to be faster, faster than their competition. Therefore, lack of speed is noticed quite quikly. 
 Competitor delivers features that are still on your future roadmap. When you look back, you struggle to answer what was built last quarter or even last year. You talk to development teams and you hear them complaining that requirements are unclear. You look at their sprint board and you see that everything is in progrees, but only few items are done; teams often don't make the sprint and spill it over to the next one.
 
 
-  - Lack of or no collaboration
+### Lack of or no collaboration
 Collaboration is the action of working with someone to produce something. It happens via an exchange of ideas and leads to creation of new and enhanced ideas to produce best designs and best software, it is a sourse of creativity, innovation and promotes healthy employee relationships. You know it is part of your culture if you often observe people working together behind one computer, people communicate face to face within teams and outside, people ask for or offer help. These should help you answer if this symptom is present in your company.
-
-
   - Not forced to connect due to lot of different topics
-- Team has nothing to show during the sprint review
+
+### Team has nothing to show during the sprint review
   - Nothing to get feedback from stakeholders
-  - 
+  
 ## Value stream
 One way to examine your development process is to [create a value stream map or VSM](https://xebia.com/blog/how-to-create-a-value-stream-map/). It is basically an inventory of all the activities that happen before a piece of software hits production. You also want to know how much time each of the activities take. Once you have that, you can put them in two buckets: value adding activities and non-value adding or waste. Give examples of activities of each category.
 Of course you still don't know what items are valuable by themselves. For that you need another metric.
