@@ -33,12 +33,13 @@ There might be numerous symptoms you observe in your organization, but today, fo
   
 ### Perception of slowness
 Speed is a new currency. Every business knows that to compete they have to be faster, faster than their competition. Therefore, lack of speed is noticed quite quikly. 
-Competitor delivers features that are still on your future roadmap. When you look back, you struggle to answer what was built last quarter or even last year. You talk to development teams and you hear them complaining that requirements are unclear. You look at their sprint board and you see that everything is in progrees, but only few items are done; teams often don't make the sprint and spill it over to the next one.
-
+Competitors deliver features that are still on your future roadmap. You struggle to answer what was built last quarter or even last year. 
 
 ### Lack of or no collaboration
-Collaboration is the action of working with someone to produce something. It happens via an exchange of ideas that leads to creation of new and enhanced ideas and allows you to produce best designs and best software. Collaboration is a sourse of creativity and innovation, it promotes healthy employee relationships. It also creates faster feedback loop and allows issues to be found and resolved earlier in the process. 
-In the heart of collaboration is communication. So look at how people communicate. Do they prefer face-to-face or email and slack are their goto options? Do you see people working behind one computer? 
+Collaboration is the action of working with someone to produce something. It happens via an exchange of ideas that leads to creation of new and enhanced ideas and allows you to produce best designs and best software. Collaboration is a sourse of creativity and innovation, it promotes healthy employee relationships. It also creates faster feedback loop and allows issues to be found and resolved earlier in the process.
+
+In the heart of collaboration is communication. So look at how people communicate. Do they prefer face-to-face or email and slack are their goto options? Do you see people working behind one computer? On the sprint board you see that everything is in progrees, but only few items, if any, are done; teams(s) often fail making the sprint and spill it over to the next one.
+
 There are many reasons why people don't collaborate: they don't see the benefits of it, they are afraid of being wrong and therefore vulnerable, they don't trust their teammates, they've tried before only to have their opinion ignored, and maybe - running ahead here - there is nothing to collaborate on.
 
 ### Team has nothing to show during the sprint review
