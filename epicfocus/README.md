@@ -37,8 +37,9 @@ Competitor delivers features that are still on your future roadmap. When you loo
 
 
 ### Lack of or no collaboration
-Collaboration is the action of working with someone to produce something. It happens via an exchange of ideas and leads to creation of new and enhanced ideas and allows you to produce best designs and best software. Collaboration is a sourse of creativity, innovation and promotes healthy employee relationships. You know it is part of your culture if you often observe people working together behind one computer, people communicate face to face within teams and outside, people ask for or offer help. These should help you answer if this symptom is present in your company.
-  - Not forced to connect due to lot of different topics
+Collaboration is the action of working with someone to produce something. It happens via an exchange of ideas that leads to creation of new and enhanced ideas and allows you to produce best designs and best software. Collaboration is a sourse of creativity and innovation, it promotes healthy employee relationships. It also creates faster feedback loop and allows issues to be found and resolved earlier in the process. 
+In the heart of collaboration is communication. So look at how people communicate. Do they prefer face-to-face or email and slack are their goto options? Do you see people working behind one computer? 
+There are many reasons why people don't collaborate: they don't see the benefits of it, they are afraid of being wrong and therefore vulnerable, they don't trust their teammates, they've tried before only to have their opinion ignored, and maybe - running ahead here - there is nothing to collaborate on.
 
 ### Team has nothing to show during the sprint review
   - Nothing to get feedback from stakeholders
