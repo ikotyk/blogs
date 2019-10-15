@@ -3,11 +3,14 @@
 - [X] Value stream
 - [X] Metrics
 - [X] Create introduction
-- [I] Create Symptoms
+- [ ] Create Symptoms
+  - [X] Perception of slowness
+  - [X] Lack of or no collaboration
+  - [ ] There is nothing to show during the sprint review
 - [ ] Context switching
 - [ ] Research the research on context switching
 - [ ] Solutions
-- [ ] Ending
+- [X] Ending
 - [ ] Add images
 - [ ] Check with grammarly
 - [ ] Editing - second iteration on each section
@@ -85,16 +88,18 @@ Resource utilization trap: https://www.youtube.com/watch?v=CostXs2p6r0
 - Budget(%/%)
   - https://hackernoon.com/how-to-define-and-spend-your-tech-debt-budget-8429z32h2
   - https://xebia.com/blog/using-metrics-to-find-the-pain-points-in-a-legacy-codebase/
+
+.. and thus by increasing focus, and reducting context switching, we can expect a boost in productivity.
+
 ## Dream of engagement
+Our story is done. The symptomps we observed led us through different measurements to find a bottleneck which we can now solve. Our resources can be more productive. Numbers go up, stakeholders are happy.
 
-- Energy
+But are we happy? The resources we're dealing with, they are human beings, even worse, they are knowledge workers. In general we can assume that having a variety of responsibilites or different contexts is a strong motivator. Focus might have an opposite effect.
 
-To get from focus to engagement:
+When we're dealing with people, we dream of increasing engangement. People that are engaged in the work they are doing are more productive. This is shown time and again by periodic research done by [Gallup](https://news.gallup.com/reports/191489/q12-meta-analysis-report-2016.aspx). Not only does it have a positive effect on productivity, it also correlates for example with higher quality work.
 
-https://noop.nl/2013/02/champfrogs.html Intrinsic motivation caused by having a clear goal, order and stability from focussed roadmap, and relatedness from required collaboration. Intrinsic motivation is strongly correlatred with engagement. https://files.eric.ed.gov/fulltext/EJ1096700.pdf
+We can influence engagement. There is a [strong correlation](https://files.eric.ed.gov/fulltext/EJ1096700.pdf) between engagement and intrinsic motivation, and improving intrinsic motivation is what we like to do! There are [many motivators](https://noop.nl/2013/02/champfrogs.html) that drive people intrinsicly. So how can focus be an influence here?
 
-To get from engagement to productivity:
+A lack of focus might cause a lack of a goal, a clear purpose. When we try to create more focus we should start with a clear and compelling goal and go from there. Focus can also possitively influence order, a more stable environment. Or it can increase relatedness from the required collaboration.
 
-Gallup research: http://hr.uci.edu/partnership/survey/pdf/03-Gallup-Q12-Research.pdf
-
-
+Focus not to increase productivity alone, but to increase engagement as well. Now we need to look for a fourth measure, to validate. The measure of engagement.
