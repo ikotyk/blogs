@@ -28,7 +28,7 @@ In our search for increased delivery of value, we go hunt for these bottlenecks.
 ## Symptoms
 There might be numerous symptoms you observe in your organization, but today, for our story, we would like to bring your attention to the following three:
  1. Perception of slowness
- 2. Lack of or no collaboration
+ 2. Lack of collaboration
  3. There is nothing to show during the sprint review
   
 ### Perception of slowness
