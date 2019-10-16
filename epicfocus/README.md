@@ -32,8 +32,10 @@ There might be numerous symptoms you observe in your organization, but today, fo
  3. There is nothing to show during the sprint review
   
 ### Perception of slowness
-Speed is a new currency. Every business knows that to compete they have to be faster, faster than their competition. Therefore, lack of speed is noticed quite quikly. 
-Competitors deliver features that are still on your future roadmap. You struggle to answer what was built last quarter or even last year. 
+Speed is a new currency. If you are fast, chances are you gonna be the first on a market with that new exciting feature. 
+It is not anymore about being better, it is about being first. Everyone is interested in what’s new. Few people are interested in what’s better. Every business knows that to compete they have to be faster than their competition.
+
+Therefore, lack of speed is noticed quite quikly: competitors deliver features that are still on your future roadmap; you struggle to answer what was built last quarter or even last year. 
 
 ### Lack of collaboration
 Collaboration is the action of working with someone to produce something. It happens via an exchange of ideas that leads to creation of new and enhanced ideas and allows you to produce best designs and best software. Collaboration is a sourse of creativity and innovation, it promotes healthy employee relationships. It also creates faster feedback loop and allows issues to be found and resolved earlier in the process.
