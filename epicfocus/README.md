@@ -3,10 +3,10 @@
 - [X] Value stream
 - [X] Metrics
 - [X] Create introduction
-- [ ] Create Symptoms
+- [X] Create Symptoms
   - [X] Perception of slowness
   - [X] Lack of or no collaboration
-  - [ ] There is nothing to show during the sprint review
+  - [X] There is nothing to show during the sprint review
 - [ ] Context switching
 - [ ] Research the research on context switching
 - [ ] Solutions
@@ -29,7 +29,7 @@
 There are a bunch of recurring wishes our clients bring to us, one of which is speed. There is no dial you can turn to delivery value faster, software teams are not like cars, there's no acceleration paddle. Even if we try to speed up by adding more resources, in many cases the bottleneck will just become more apperent.
 In our search for increased delivery of value, we go hunt for these bottlenecks. No two contexts are the same, and for this story we have a certain context in mind. However, symptoms in different organisations are often similar and our story might apply to your context if you recognise the problems we encountered.
 ## Symptoms
-There might be numerous symptoms you observe in your organization, but today, for our story, we would like to bring your attention to the following three:
+There might be numerous speed-related symptoms you observe in your organization, but today, for our story, we would like to bring your attention to the following three:
  1. Perception of slowness
  2. Lack of collaboration
  3. There is nothing to show during the sprint review
@@ -43,12 +43,17 @@ Therefore, lack of speed is noticed quite quikly: competitors deliver features t
 ### Lack of collaboration
 Collaboration is the action of working with someone to produce something. It happens via an exchange of ideas that leads to creation of new and enhanced ideas and allows you to produce best designs and best software. Collaboration is a sourse of creativity and innovation, it promotes healthy employee relationships. It also creates faster feedback loop and allows issues to be found and resolved earlier in the process.
 
-In the heart of collaboration is communication. So look at how people communicate. Do they prefer face-to-face or email and slack are their goto options? Do you see people working behind one computer? On the sprint board you see that everything is in progrees, but only few items, if any, are done; teams(s) often fail making the sprint and spill it over to the next one.
+In the heart of collaboration is communication. So look at how people communicate: with each other, with you. Do they prefer face-to-face or email and slack are their goto options? Do you see people working behind one computer? On the sprint board you see that everything is in progrees, but only few items, if any, are done; teams(s) often fail making the sprint and spill it over to the next one.
 
 There are many reasons why people don't collaborate: they don't see the benefits of it, they are afraid of being wrong and therefore vulnerable, they don't trust their teammates, they've tried before only to have their opinion ignored, and maybe - running ahead here - there is nothing to collaborate on.
 
 ### Team has nothing to show during the sprint review
-  - Nothing to get feedback from stakeholders
+Good place for forming an opinion about time to market is a sprint review meeting. During the sprint review, the scrum team and stakeholders collaborate about what was done in the sprint. 
+
+Do the sprint review meetings happen regularly? 
+Do the teams have something to review? 
+Do you feel like progress is continuosly being made? 
+Or maybe you catch yourself wondering what the teams have been doing the entire sprint as they have very little of nothing to review. 
   
 ## Value stream
 One way to examine your development process is to [create a value stream map or VSM](https://xebia.com/blog/how-to-create-a-value-stream-map/). It is basically an inventory of all the activities that happen before a piece of software hits production. You also want to know how much time each of the activities take. Once you have that, you can put them in two buckets: value adding activities and non-value adding or waste. Give examples of activities of each category.
