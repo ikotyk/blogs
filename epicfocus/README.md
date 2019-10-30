@@ -7,8 +7,8 @@
   - [X] Perception of slowness
   - [X] Lack of or no collaboration
   - [X] There is nothing to show during the sprint review
-- [ ] Context switching
-- [ ] Research the research on context switching
+- [X] Context switching
+- [X] Research the research on context switching
 - [ ] Solutions
 - [X] Ending
 - [ ] Add images
@@ -78,13 +78,15 @@ Given the symptoms we discussed earlier, the perception of slowness, which is no
 Image with the gantt chart and parallel features
 By plotting the work on the different value adding contexts over time you can see where work on these different contexts overlap. Working on different contexts in the same timeframe suggests context switching. 
 ## Context switching
-Most likely you already know that context switching is not your friend but rather an enemy that is stealing your time without you noticing it. And this claim is backed by the research.
+Most likely you already know that context switching is not your friend, but rather an enemy, that is stealing your time without you noticing it. Modern world is full of distractions: new email comes in, someone sends you a slack message, one of the numerous apps on your phone sends you a notification, social media constantly screaming for your attention. The world is designed to disctract you. It takes discipline and practice to restrain yourself from all these temptations, calling you every minute. But today we would like to leave daily distractions alone and focus on another level of context switching - project level. 
+
+Many companies or individual product managers fail to properly prioritize and order their backlogs or have difficulties saying 'No' to their numerous stakeholders. As result of these failures, their team is tasked to work on everything at the same time. As time goes by, everything is started, little is finished. Half done isn't done at all. And the cost of such decisions is very high. Gerald Weinberg in his book Quality Software Management: Systems Thinking offers an illustration of the cost of context switching:
+
 ![Context Switching](images/context-switching.png?raw=true "Waste precentage from switching context")
 
-- Referrence to Jeff Sutherland's book - cost of context switching
-https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/038534645X
+Jeff Sutherland in his book Scrum: The Art of Doing Twice the Work in Half the Time speaks at leangth about costs of context switching. He calls waste a crime and encourages agile teams to do one thing at a time. 
 
-To get fron context switching to focus:
+To get from context switching to focus:
 
 Resource utilization trap: https://www.youtube.com/watch?v=CostXs2p6r0
 ## Solutions
