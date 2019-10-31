@@ -95,24 +95,12 @@ To get from context switching to focus:
 
 Resource utilization trap: https://www.youtube.com/watch?v=CostXs2p6r0
 ## Solutions
-Acknowledgement of a problem is the first step towards its solution. There are number of things you could do next. 
+  Acknowledgement of a problem is the first step towards its solution. There are number of things you could do next. And at first, we wanted to give you some tips. But those seemed obvious and tricky at the same time. We wanted to tell you to focus, focus on the right stuff, but often times it is easier said than done. We don't know your context and the reasons why this is happening in your organization. You might struggle to identify the right one from many or, perhaps, have difficulties explaining to your stakeholders why their project has to be put on hold.
+So, instead of giving an advice, we would like to ask you what would you do? How would you tackle this dysfuction? Would you address it at all?
 
-1. Focus on one project
-This advice is the most obvious one and yet it is easier said than done. You might struggle to identify which project is the one to do first. You would have to explain to your stakeholders why are you putting their projects on hold and why theirs and not someone else's.  
+There is one more thing that we wanted to warn you about. Now, having the time to market calculated as a single number, it might be tempting to use it as a baseline and set a target to grow it, turn it into the new KPI. To be honest, that was my first instinct. After discussing it, we came into conclusion that it is not a good idea. The number can be easily gamed without giving you extra speed back. For example, by creating more of smaller size tickets the speed number will go up, but are you really going faster? We think it would benefit you to re-measure your focus and speed some time after you've implemented a change to see what is the effect of it. 
 
-2. WIP limit
-If you cannot drop everything and focus on one, you can at least minimize the number of parallel projects. 
-- Focus on right stuff
-3. Budget(%/%)
-Be strict with your budget for tech debt and bugs. Many companies are planning 20% of the time for solving technical debt and 10% for solving bugs. You can be smart about how you approach your technical debt. First of all you should try to incorporate it in feature development as much as you can and imporove the areas of the code you are changing to add new functionality. Another thing you could do is to analyse your code and tackle the 
-
-  - https://hackernoon.com/how-to-define-and-spend-your-tech-debt-budget-8429z32h2
-  - https://xebia.com/blog/using-metrics-to-find-the-pain-points-in-a-legacy-codebase/
-- Target and why it is bad
-
-Now, having time to market as a single number, it might be tempting to use it as a baseline and set a target to grow it, turn it into the new KPI. To be honest, that was my first instinct when I saw it. It was only after discussing it that I realised it might not be such a good idea. And here is why. ... (Blank, don't remember why it is bad to turn it into the KPI)
-
-.. and thus, by increasing focus and reducing context switching, we can expect a boost in productivity.
+We strongly believe that by increasing focus and reducing context switching, you can expect a boost in productivity.
 
 ## Dream of engagement
 Our story is done. The symptoms we observed led us through different measurements to find a bottleneck that we can now solve. Our resources can be more productive. Numbers go up, stakeholders are happy.
