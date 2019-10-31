@@ -95,7 +95,6 @@ To get from context switching to focus:
 
 Resource utilization trap: https://www.youtube.com/watch?v=CostXs2p6r0
 ## Solutions
-<<<<<<< HEAD
 Acknowledgement of a problem is the first step towards its solution. There are number of things you could do next. 
 
 1. Focus on one project
@@ -107,13 +106,6 @@ If you cannot drop everything and focus on one, you can at least minimize the nu
 3. Budget(%/%)
 Be strict with your budget for tech debt and bugs. Many companies are planning 20% of the time for solving technical debt and 10% for solving bugs. You can be smart about how you approach your technical debt. First of all you should try to incorporate it in feature development as much as you can and imporove the areas of the code you are changing to add new functionality. Another thing you could do is to analyse your code and tackle the 
 
-=======
-- Target and why it is bad
-- Focus
-- WIP limit
-- Focus on the right stuff
-- Budget(%/%)
->>>>>>> 14d7912... Initial walkthrough with grammarly's help
   - https://hackernoon.com/how-to-define-and-spend-your-tech-debt-budget-8429z32h2
   - https://xebia.com/blog/using-metrics-to-find-the-pain-points-in-a-legacy-codebase/
 - Target and why it is bad
@@ -133,12 +125,7 @@ We can influence engagement. There is a [strong correlation](https://files.eric.
 
 A lack of focus might cause a lack of a goal, a clear purpose. When we try to create more focus, we should start with a clear and compelling goal and go from there. Focus can also positively influence order, a more stable environment. Or it can increase relatedness from the required collaboration.
 
-<<<<<<< HEAD
-Focus not to increase productivity alone, but to increase engagement as well. Now we need to look for a fourth measure, to validate. The measure of engagement.
-
+Focus not to increase productivity alone, but to increase engagement as well. Now we need to look for a fourth measure; to validate — the measure of engagement.
 
 ### Acknowledgements
 Neither the research nor this blog would see the world if it wasn't for Jochum Borger, my colleague and friend, who has supported me all this time by co-creating, giving continuous feedback, and actually writing it together with me. Thank you, your contribution is invaluable!  
-=======
-Focus not to increase productivity alone, but to increase engagement as well. Now we need to look for a fourth measure; to validate — the measure of engagement.
->>>>>>> 14d7912... Initial walkthrough with grammarly's help
