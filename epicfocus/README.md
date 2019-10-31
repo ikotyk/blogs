@@ -62,13 +62,11 @@ Of course, you still don't know what items or tickets are valuable by themselves
 #### 1. Value-adding vs non value-adding product backlog items
 By building a value strem map and eliminating waste you can speed up your processes. We would like to offer you a similar excersize only performed against your backlog which can help you speed up your delivery. What if you could put all the completed work into 2 similar buckets: value-adding and non-value adding. Examples could be adding new feature vs fixing bugs and technical debt. Both are important; we need to add new value while maintaining the existing value of our products. Once you have a distribution of work, e.g. the ratio between value-adding and non-value adding items, you can drill down on each of them and get even more insights. Having a lot of non-value adding work might create a perception of slowness.
 
+![Distribution of tickets](images/Value-adding vs non-value adding.png?raw=true "Value-adding vs non-value adding")
 
-
-Add an image of epic vs. other stuff.
-Exercise similar to mapping the VSM could be performed against your backlog. You could put all the work into the same two buckets value-adding and non-value adding. Both are important; we need to add new value while maintaining the existing value of our products. Once you have a distribution of work, e.g., the ratio between value-adding and non-value adding items, you can drill down on each of them and get more insights. Having a lot of non-value adding work might create a perception of slowness.
-You can go further and drill down into what is on your non-value adding product backlog items and understand what is the underlying issue there, maybe you have a lot of bugs, and there is a quality problem, or perhaps it is a tech debt that's holding you back and doesn't allow to extend the product. 
-Having this data, you can get an idea of your team speed if you divide the amount of work done by the number of days within which it was completed.
-You can go further and measure the speed of individual features to see if you can support your perception of slowness with data.
+From here, you can go further and drill down into what is on your non-value adding product backlog items and understand what is an underlying issue there, maybe you have a lot of bugs and there is a quality problem, or perhaps, it is a tech debt that's holding you back and doesn't allow to extend the product. 
+Having these data, you can get an idea of your delivery speed if you divide the amount of work done by the number of days it took to complete.
+Additionaly, you can measure the speed of individual features to see if you can support your perception of slowness with data.
 #### 2. Speed of the feature(s) (items per day)
 Assume that epics are value-adding
 Image with the epic speed vs. total speed.
