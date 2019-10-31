@@ -9,12 +9,7 @@
   - [X] There is nothing to show during the sprint review
 - [X] Context switching
 - [X] Research the research on context switching
-- [] Solutions
-  - [X] Target and why it is bad
-  - [X] Focus
-  - [X] WIP limit
-  - [] Focus on right stuff
-  - [X] Budget(%/%)
+- [X] Solutions
 - [X] Ending
 - [ ] Add images
 - [ ] Check with grammarly
