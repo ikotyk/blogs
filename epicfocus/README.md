@@ -54,9 +54,13 @@ Do the sprint review meetings happen regularly? Do the teams have something to r
   
 ## Value stream
   One way to examine your development process is to [create a value stream map or VSM](https://xebia.com/blog/how-to-create-a-value-stream-map/). It is an inventory of all the activities that happen before a piece of software hits production. You also want to know how much time each activity takes. Make sure to record all the waiting times such as waiting for code review, waiting for approval(s), waiting for deploy, etc.  Once you have that, you can put them in two buckets: value-adding activities and non-value adding or, in other words, waste. It is quite intuitive that activities such as writing code, writing tests, reviewing the code, etc are considered as value-adding while all kinds of waits belong to waste. 
-By performing this excersize you will identify the waste in your process and it will become clear what parts of it need to change. 
 
-Of course, you still don't know what items or tickets are valuable by themselves. For that, you need another metric.
+Here is the visualization of our VSM and how it changed overtime as we tweaked the process.
+![VSM](images/VSM.png?raw=true "Value Stream Map")
+  
+  
+By performing this excersize you will identify the waste in your process and it will become clear what parts of it need to change. 
+Of course, you still don't know what items are valuable by themselves. For that, you need another metric.
 
 ## Metrics
 #### 1. Value-adding vs non value-adding product backlog items
@@ -68,14 +72,22 @@ From here, you can go further and drill down into what is on your non-value addi
 Having these data, you can get an idea of your delivery speed if you divide the amount of work done by the number of days it took to complete.
 Additionaly, you can measure the speed of individual features to see if you can support your perception of slowness with data.
 #### 2. Speed of the feature(s) (items per day)
-Assume that epics are value-adding
-Image with the epic speed vs. total speed.
-How does it compare to the total speed? Is it even close? Or those two are far apart? If your answer to this question is yes, you might want to find out why this is the case. There's a lot of different routes you can take from here, for example, you could start looking into the actual content of the slow features. In our context, we opted for a different route.
-Given the symptoms, we discussed earlier, the perception of slowness, which is now backed by data, the lack of collaboration, and the unclear sprint goal, we decided to look into parallel work. 
+As a next step we decided to drill down into value adding bucket. We used jira epics as value-adding work items. For each epic we identified the duration(in days) and the number of tickets completed within that period. And by dividing the number of completed tickets by duration we calculated the speed of feature/epic delivery.
 
-[//]: # (This comparison can either give you some answers or raise more questions.)
+![Epic delivery speed](images/delivery-speed.png?raw=true "Epic delivery speed")
+
+For comparison, we calculated the total delivery speed, see the last line in the chart. 
+
+What is the speed of your feature delivery? Is it fast? Or is it slow? Only you can answer this question as it's unique for your situation. 
+In our context we felt that feature delivery was way too far from the total speed. Given the symptoms we discussed earlier and the new insights, we decided to look into parallel work.
+
 #### 3. Number of parallel value-adding contexts
-Image with the Gantt chart and parallel features
+
+We plotted the features into a gantt chart. 
+
+![Epic focus](images/epic-focus.png?raw=true "Epic focus")
+
+
 By plotting the work on the different value-adding contexts over time, you can see where work on these different contexts overlaps. Working on different contexts in the same timeframe suggests context switching. 
 ## Context switching
 Most likely, you already know that context switching is not your friend, but rather an enemy, that is stealing your time without you noticing it. The modern world is full of distractions: new email comes in, someone sends you a Slack message, one of the numerous apps on your phone sends you a notification, social media constantly screaming for your attention. The world is designed to distract you. It takes discipline and practice to restrain yourself from all these temptations, calling you every minute. But today we would like to leave daily distractions alone and focus on another level of context switching - project level. 
