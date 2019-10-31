@@ -11,12 +11,12 @@
 - [X] Research the research on context switching
 - [X] Solutions
 - [X] Ending
-- [ ] Add images
+- [X] Add images
 - [ ] Check with grammarly
-- [ ] Editing - second iteration on each section
+- [X] Editing - second iteration on each section
 - [ ] Review
 - [ ] Fix comments
-- [ ] Come up with the title
+- [ ] Come up with the title and subtitles
 - [ ] Consider SEO
 - [ ] Move it to wordpress and publish
 - [ ] Distribute via social media, etc.
