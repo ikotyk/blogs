@@ -26,37 +26,34 @@
 
 # How to assess your team focus / Focused team is a happy team / Driving engagement by creating focus
 ## Deliver value faster
-There are a bunch of recurring wishes our clients bring to us, one of which is speed. There is no dial that you can turn to deliver value faster. Software teams are not like cars; there's no acceleration paddle. Even if we try to speed up by adding more resources, in many cases, the bottleneck will just become more apparent.
+  There are a bunch of recurring wishes our clients bring to us, one of which is speed. There is no dial that you can turn to deliver value faster. Software teams are not like cars; there's no acceleration pedal. Even if we try to speed up by adding more resources, in many cases, the bottleneck will just become more apparent.
 In our search for increased delivery of value, we hunt for these bottlenecks. No two contexts are the same, and for this story, we have a particular context in mind. However, symptoms in different organizations are often similar, and our story might apply to your setting if you recognize the problems we encountered.
 ## Symptoms
-There might be numerous speed-related symptoms you observe in your organization, but today, for our story, we would like to bring your attention to the following three:
+  Like doctors, we always start with observing the symptoms of the problem at hand. There might be numerous symptoms of slowness one can notice in an organization, but today, we would like to bring your attention to the following three:
  1. Perception of slowness
  2. Lack of collaboration
- 3. There is nothing to show during the sprint review
+ 3. Team has nothing to show during the Sprint Review
   
 ### Perception of slowness
-Speed is a new currency. If you are fast, chances are you going to be the first on the market with that new exciting feature. 
+  Speed is a new currency. If you are fast, chances are you are going to be the first on the market with that new exciting feature. 
 It is not anymore about being better; it is about being first. Everyone is interested in what's new. Few people are interested in what's better. Every business knows that to compete, they have to be faster than their competition.
 
-Therefore, lack of speed is noticed quite quickly: competitors deliver features that are still on your future roadmap; you struggle to answer what you built last quarter or even last year. 
+Therefore, lack of speed is noticed quite quickly: competitors deliver features that are still on your future roadmap; you struggle to answer what value was added to your product last quarter or even last year. 
 
 ### Lack of collaboration
-Collaboration is the action of working with someone to produce something. It happens via an exchange of ideas that leads to the creation of new and enhanced ideas and allows you to deliver the best designs and best software. Collaboration is a source of creativity and innovation; it promotes healthy employee relationships. It also creates a faster feedback loop and allows issues to be found and resolved earlier in the process.
+  Collaboration is the action of working with someone to produce something. It happens via exchange of ideas and leads to creation of new and enhanced ideas, it allows you to deliver the best designs and best software. Collaboration is a source of creativity and innovation; it promotes healthy employee relationships. It also creates a faster feedback loop and allows issues to be found and resolved earlier in the process.
 
-In the heart of collaboration is communication. So look at how people communicate: with each other, with you. Do they prefer face-to-face communication, or are email and slack their goto options? Do you see people working behind one computer? On the sprint board, you see that everything is in progress, but only a few items, if any, are done; teams(s) often fail to make the sprint and spill it over to the next one.
+In the heart of collaboration is communication. So look at how people communicate: with each other, with you. Do they prefer face-to-face communication, or are email and slack their goto options? Do you see people working behind one computer? How does the team's sprint board look like? Is there a sensible sprint goal set? Do you, perhaps, see a lot in progress and very little finished?
 
-There are many reasons why people don't collaborate. They don't see the benefits of it, are afraid of being wrong and therefore vulnerable,  don't trust their teammates, or they've tried before only to have their opinion ignored. And maybe even - running ahead here - there is nothing on which to collaborate.
+There are many reasons why people don't collaborate. They don't see the benefits of it, are afraid of being wrong and therefore vulnerable, don't trust their teammates, or they've tried before only to have their opinion ignored. And maybe even - running ahead here - there is nothing to collaborate on.
 
 ### Team has nothing to show during the sprint review
-A good place for forming an opinion about time to market is a sprint review meeting. During the sprint review, the scrum team and stakeholders converse about the advance made in the sprint. 
+  A good observation place is a sprint review meeting. During the sprint review, the scrum team and stakeholders converse about the advance made in the sprint. 
 
-Do the sprint review meetings happen regularly? 
-Do the teams have something to review? 
-Do you feel like there is continuous progress? 
-Or maybe you catch yourself wondering what the teams have been doing the entire sprint as they have very little of nothing to review. 
+Do the sprint review meetings happen regularly? Do the teams have something to review? Do you feel like there is continuous progress? Or maybe, you catch yourself wondering what the teams have been doing the entire sprint as they have very little or nothing to review. 
   
 ## Value stream
-One way to examine your development process is to [create a value stream map or VSM](https://xebia.com/blog/how-to-create-a-value-stream-map/). It is an inventory of all the activities that happen before a piece of software hits production. You also want to know how much time each of the actions takes. Once you have that, you can put them in two buckets: value-adding activities and non-value adding or waste. Give examples of activities in each category.
+  One way to examine your development process is to [create a value stream map or VSM](https://xebia.com/blog/how-to-create-a-value-stream-map/). It is an inventory of all the activities that happen before a piece of software hits production. You also want to know how much time each of the actions takes. Once you have that, you can put them in two buckets: value-adding activities and non-value adding or waste. Give examples of activities in each category.
 Of course, you still don't know what items are valuable by themselves. For that, you need another metric.
 waste in the process
 ## Metrics
