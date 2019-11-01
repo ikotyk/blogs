@@ -118,5 +118,5 @@ But are we happy? The resources we're dealing with they are human beings; even w
 Create focus not to increase productivity alone, but to grow engagement as well. Now we need to look for a fourth metric to validate — the measure of engagement.
 
 ### Acknowledgements
-Neither the research nor this blog would see the world if it wasn't for Jochum Börger, my colleague and friend, who has supported me all this time by co-creating, giving continuous feedback, and actually writing it together with me. Thank you, your contribution is invaluable!  
+Neither the research nor this blog would see the world if it wasn't for [Jochum Börger](https://xebia.com/blog/author/jborgerxebia-com/), my colleague and friend, who has supported me all this time by co-creating, giving continuous feedback, and actually writing it together with me. Thank you, your contribution is invaluable!  
 
