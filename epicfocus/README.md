@@ -51,9 +51,11 @@ There are many reasons why people don't collaborate. They don't see the benefits
 ### Team has nothing to present
 As a coach, I like to use the spring review as a vantage point to do observations. Do the sprint review meetings happen regularly? Do the teams have something to review? Do you feel like there is continuous progress? Perhaps you catch yourself wondering what the teams have been doing the entire sprint as they have very little or nothing to review. 
 
+
 > "If you can't measure it, you can't improve it." 
 > - Peter Drucker
-  
+
+
 ## Value stream
 The symptoms we observe are a good starting point for change. We now want to support these observations with data. One way to examine your development process is to [create a value stream map or VSM](https://xebia.com/blog/how-to-create-a-value-stream-map/). It is an inventory of all the activities that happen before a piece of software hits production. You also want to know how much time each activity takes. Make sure to record all the waiting times, such as waiting for code review, waiting for approval(s), waiting for deploy, etc.  Once you have that, you can put them in two buckets: value-adding and non-value adding activities or, in other words, waste. It is quite intuitive that activities such as writing code, writing tests, and reviewing the code, are considered as value-adding while all kinds of waits belong to waste. 
 
@@ -73,41 +75,35 @@ Put all the completed work into two buckets: value-adding and non-value adding. 
 Once you have a distribution of work, e.g. the ratio between value-adding and non-value adding items, you can drill down on each of them and get even more insights. It could be that you have a lot of bugs, and there is a quality problem, or perhaps, it is a tech debt that's holding you back and doesn't allow extending the product. Having a lot of non-value adding work might create a perception of slowness in the eyes of the stakeholders.
 
 #### 2. Speed of the feature(s) (items per day)
-As a next step, we decided to drill down into value adding bucket. We used jira epics as value-adding work items. For each epic we identified the duration(in days) and the number of tickets completed within that period. And by dividing the number of completed tickets by duration we calculated the speed of feature/epic delivery.
+As a next step, we decided to look further into the value-adding bucket. We used features as value-adding work. For each feature, we identified the duration (in days) and the number of work items completed within that period. By dividing the number of completed tickets by duration, we calculated the speed of feature delivery.
 
 ![Epic delivery speed](images/delivery-speed.png?raw=true "Epic delivery speed")
 
-For comparison, we calculated the total delivery speed, see the last line in the chart. 
+For comparison, we calculated the total delivery speed.
 
 What is the speed of your feature delivery? Is it fast? Or is it slow? Only you can answer this question as it's unique for your situation. 
-In our context we felt that feature delivery was way too far from the total speed. Given the symptoms we discussed earlier and the new insights, we decided to look into parallel work.
-
-//
-
-With this data, you can get an idea of your delivery speed if you divide the amount of work done by the number of days it took to complete.
-Additionaly, you can measure the speed of individual features to see if you can support your perception of slowness with data.
+In our context, we felt that feature delivery was way too far from the total speed, and we wanted to know why. In search of an answer, we decided to look into parallel work.
 
 #### 3. Number of parallel value-adding contexts
-
-We plotted the features into a gantt chart. 
+We plotted the features into a Gantt chart. 
 
 ![Epic focus](images/epic-focus.png?raw=true "Epic focus")
 
-
-By plotting the work on the different value-adding contexts over time, you can see where work on these different contexts overlaps. Working on different contexts in the same timeframe suggests context switching. 
+By plotting the work on the different value-adding contexts over time, you can see where work on these different contexts overlaps. Working on various contexts in the same timeframe suggests context switching. 
 
 ## Context switching
-Most likely, you already know that context switching is not your friend, but rather an enemy, that is stealing your time without you noticing it. The modern world is full of distractions: new email comes in, someone sends you a Slack message, one of the numerous apps on your phone sends you a notification, social media constantly screaming for your attention. The world is designed to distract you. It takes discipline and practice to restrain yourself from all these temptations, calling you every minute. But today we would like to leave daily distractions alone and focus on another level of context switching - project level. 
+Most likely, you already know that context switching is not your friend, but rather an enemy, that is stealing your precious time without you noticing it. The modern world is full of distractions: new email comes in, someone sends you a Slack message, one of the numerous apps on your phone sends you a notification, social media continually screaming for your attention. The world is designed to distract you. It takes discipline and practice to restrain yourself from all these temptations, calling you every minute. Let's leave these daily distractions for now and focus on another level of context switching: project-level. 
 
-Many companies or individual product managers fail to prioritize properly and order their backlogs or have difficulties saying 'No' to their numerous stakeholders. As a result of these failures, their team is tasked to work on everything at the same time. As time goes by, everything is started, little is finished. Half done isn't done at all. And the cost of such decisions is very high. Gerald Weinberg, in his book Quality Software Management: Systems Thinking offers an illustration of the cost of context switching:
+Many companies or individual product managers lack the means to prioritize and order their backlogs properly or have difficulties saying 'No' to their various stakeholders. As a result of these shortcomings, teams are tasked to work on everything at the same time. As time goes by, everything is in progress, little is finished. Half done isn't done at all. The cost of such decisions is very high. Gerald Weinberg, in his book Quality Software Management: Systems Thinking, offers an illustration of the cost of context switching:
 
 ![Context Switching](images/context-switching.png?raw=true "Waste percentage from switching context")
 
 Jeff Sutherland, in his book Scrum: The Art of Doing Twice the Work in Half the Time, speaks at length about costs of context switching. He calls waste crime and encourages agile teams to do one thing at a time. 
 
-To get from context switching to focus:
 
-Resource utilization trap: https://www.youtube.com/watch?v=CostXs2p6r0
+
+--> Add reflection to symptoms
+
 
 ## Solutions
 Acknowledgement of a problem is the first step towards its solution. There are number of things you could do next. And at first, we wanted to give you some tips. But those seemed obvious and tricky at the same time. We wanted to tell you to focus, focus on the right stuff, but often times it is easier said than done. We don't know your context and the reasons why this is happening in your organization. You might struggle to identify the right one from many or, perhaps, have difficulties explaining to your stakeholders why their project has to be put on hold.
