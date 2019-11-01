@@ -71,7 +71,7 @@ Put all the completed work into two buckets: value-adding and non-value adding. 
 
 ![Distribution of tickets](images/value-adding-vs-non-value-adding.png?raw=true "Value-adding vs non-value adding PBIs")
 
-Once you have a distribution of work, e.g. the ratio between value-adding and non-value adding items, you can drill down on each of them and get even more insights. It could be that you have a lot of bugs, and there is a quality problem, or perhaps, it is a tech debt that's holding you back and doesn't allow extending the product. Having a lot of non-value adding work might create a perception of slowness in the eyes of the stakeholders.
+Once you have a distribution of work, e.g. the ratio between value-adding and non-value adding items, you can drill down on each of them and get even more insights. It could be that you have a lot of bugs, and there is a quality problem, or perhaps, it is a [tech debt](https://xebia.com/blog/using-metrics-to-find-the-pain-points-in-a-legacy-codebase/) that's holding you back and doesn't allow extending the product. Having a lot of non-value adding work might create a perception of slowness in the eyes of the stakeholders.
 
 #### 2. Speed of the feature(s) (items per day)
 As a next step, we decided to look further into the value-adding bucket. We used features as value-adding work. For each feature, we identified the duration (in days) and the number of work items completed within that period. By dividing the number of completed tickets by duration, we calculated the speed of feature delivery.
