@@ -18,6 +18,7 @@
 - [ ] Fix comments
 - [ ] Come up with the title and subtitles
 - [ ] Create new picture for context switching
+- [ ] Fix Epic focus image epic in title
 - [X] Link to source for lack of collaboration reasons
 - [ ] Consider SEO
 - [ ] Move it to wordpress and publish
