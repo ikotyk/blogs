@@ -18,6 +18,7 @@
 - [ ] Fix comments
 - [ ] Come up with the title and subtitles
 - [ ] Create new picture for context switching
+- [X] Link to source for lack of collaboration reasons
 - [ ] Consider SEO
 - [ ] Move it to wordpress and publish
 - [ ] Distribute via social media, etc.
@@ -25,7 +26,7 @@
 - [ ] Measure # of views every day, drink if it is high :), drink if it is low :(
 
 
-# How to assess your team focus / Focused team is a happy team / Driving engagement by creating focus
+# Measure your team's value delivery speed / How to assess your team focus / Focused team is a happy team / Driving engagement by creating focus
 ## Deliver value faster
 There are several recurring wishes our clients bring to us, one of which is speed. However, there is no dial that we can turn to deliver value faster. Software teams are not like cars; there's no acceleration pedal. Even if we try to speed up by adding more resources, in many cases, the actual bottleneck will just become more apparent.
 
@@ -47,7 +48,7 @@ Collaboration is the action of working with someone to produce something. In wor
 
 At the heart of collaboration is communication. Look at how people around you communicate, do they prefer face-to-face communication, or are email and slack their goto options? Do you see people working on one computer? Do they look like a team?
 
-There are many reasons why people don't collaborate. They don't see the benefits of it, are afraid of being wrong and therefore vulnerable, don't trust their teammates, or they've tried before only to have their opinion ignored. Or maybe there is nothing to collaborate on?
+There are [many reasons](https://www.forbes.com/sites/carolkinseygoman/2014/03/02/the-story-of-why-people-dont-collaborate/) why people don't collaborate. They don't see the benefits of it, are afraid of being wrong and therefore vulnerable, don't trust their teammates, or they've tried before only to have their opinion ignored. Or maybe there is nothing to collaborate on?
 
 ### Team has nothing to present
 As a coach, I like to use the spring review as a vantage point to do observations. Do the sprint review meetings happen regularly? Do the teams have something to review? Do you feel like there is continuous progress? Perhaps you catch yourself wondering what the teams have been doing the entire sprint as they have very little or nothing to review. 
