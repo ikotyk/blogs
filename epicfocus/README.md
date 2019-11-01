@@ -26,53 +26,54 @@
 
 # How to assess your team focus / Focused team is a happy team / Driving engagement by creating focus
 ## Deliver value faster
-  There are a bunch of recurring wishes our clients bring to us, one of which is speed. There is no dial that you can turn to deliver value faster. Software teams are not like cars; there's no acceleration pedal. Even if we try to speed up by adding more resources, in many cases, the bottleneck will just become more apparent.
-In our search for increased delivery of value, we hunt for these bottlenecks. No two contexts are the same, and for this story, we have a particular context in mind. However, symptoms in different organizations are often similar, and our story might apply to your setting if you recognize the problems we encountered.
+There are several recurring wishes our clients bring to us, one of which is speed. However, there is no dial that we can turn to deliver value faster. Software teams are not like cars; there's no acceleration pedal. Even if we try to speed up by adding more resources, in many cases, the actual bottleneck will just become more apparent.
+
+In our search for increased delivery of value, we hunt for these bottlenecks. No two contexts are the same, and for this story, we have a particular context in mind. Symptoms in different organizations are often similar, and our story might apply to your setting if you recognize the problems we encountered.
+
 ## Symptoms
-  Like doctors, we always start with observing the symptoms of the problem at hand. There might be numerous symptoms of slowness one can notice in an organization, but today, we would like to bring your attention to the following three:
+As doctors, we always start by observing the symptoms of the problem at hand. There might be numerous symptoms of slowness one can notice in an organization, we would like to bring your attention to three we encountered:
  1. Perception of slowness
  2. Lack of collaboration
- 3. Team has nothing to show during the Sprint Review
+ 3. Team has nothing to present
   
 ### Perception of slowness
-  Speed is a new currency. If you are fast, chances are you are going to be the first on the market with that new exciting feature. 
-It is not anymore about being better; it is about being first. Everyone is interested in what's new. Few people are interested in what's better. Every business knows that to compete, they have to be faster than their competition.
+Speed is a new currency. If you are fast, chances are you are going to be the first on the market with that new exciting feature. It is not about being better; it is about getting there first. Everyone is consumed by what's new. Few people are interested in what's better.
 
-Therefore, lack of speed is noticed quite quickly: competitors deliver features that are still on your future roadmap; you struggle to answer what value was added to your product last quarter or even last year. 
+Therefore, the lack of speed is noticed quite quickly. While competitors are already delivering features that are on your future roadmap, you still struggle to answer what value was added to your product last quarter or even last year. 
 
 ### Lack of collaboration
-  Collaboration is the action of working with someone to produce something. It happens via exchange of ideas and leads to creation of new and enhanced ideas, it allows you to deliver the best designs and best software. Collaboration is a source of creativity and innovation; it promotes healthy employee relationships. It also creates a faster feedback loop and allows issues to be found and resolved earlier in the process.
+Collaboration is the action of working with someone to produce something. In working together, there is an exchange of ideas; new and enhanced ideas are born. It allows you to deliver the best designs and the best software. Collaboration is a source of creativity and innovation; it promotes healthy employee relationships. It also creates a faster feedback loop and allows issues to be found and resolved earlier in the process.
 
-In the heart of collaboration is communication. So look at how people communicate: with each other, with you. Do they prefer face-to-face communication, or are email and slack their goto options? Do you see people working behind one computer? How does the team's sprint board look like? Is there a sensible sprint goal set? Do you, perhaps, see a lot in progress and very little finished?
+At the heart of collaboration is communication. Look at how people around you communicate, do they prefer face-to-face communication, or are email and slack their goto options? Do you see people working on one computer? Do they look like a team?
 
-There are many reasons why people don't collaborate. They don't see the benefits of it, are afraid of being wrong and therefore vulnerable, don't trust their teammates, or they've tried before only to have their opinion ignored. And maybe even - running ahead here - there is nothing to collaborate on.
+There are many reasons why people don't collaborate. They don't see the benefits of it, are afraid of being wrong and therefore vulnerable, don't trust their teammates, or they've tried before only to have their opinion ignored. Or maybe there is nothing to collaborate on?
 
-### Team has nothing to show during the sprint review
-  A good observation place is a sprint review meeting. During the sprint review, the scrum team and stakeholders converse about the advance made in the sprint. 
+### Team has nothing to present
+As a coach, I like to use the spring review as a vantage point to do observations. Do the sprint review meetings happen regularly? Do the teams have something to review? Do you feel like there is continuous progress? Perhaps you catch yourself wondering what the teams have been doing the entire sprint as they have very little or nothing to review. 
 
-Do the sprint review meetings happen regularly? Do the teams have something to review? Do you feel like there is continuous progress? Or maybe, you catch yourself wondering what the teams have been doing the entire sprint as they have very little or nothing to review. 
+| "If you can't measure it, you can't improve it." 
+| - Peter Drucker
   
 ## Value stream
-  One way to examine your development process is to [create a value stream map or VSM](https://xebia.com/blog/how-to-create-a-value-stream-map/). It is an inventory of all the activities that happen before a piece of software hits production. You also want to know how much time each activity takes. Make sure to record all the waiting times such as waiting for code review, waiting for approval(s), waiting for deploy, etc.  Once you have that, you can put them in two buckets: value-adding activities and non-value adding or, in other words, waste. It is quite intuitive that activities such as writing code, writing tests, reviewing the code, etc are considered as value-adding while all kinds of waits belong to waste. 
+The symptoms we observe are a good starting point for change. We now want to support these observations with data. One way to examine your development process is to [create a value stream map or VSM](https://xebia.com/blog/how-to-create-a-value-stream-map/). It is an inventory of all the activities that happen before a piece of software hits production. You also want to know how much time each activity takes. Make sure to record all the waiting times, such as waiting for code review, waiting for approval(s), waiting for deploy, etc.  Once you have that, you can put them in two buckets: value-adding and non-value adding activities or, in other words, waste. It is quite intuitive that activities such as writing code, writing tests, and reviewing the code, are considered as value-adding while all kinds of waits belong to waste. 
 
-Here is the visualization of our VSM and how it changed overtime as we tweaked the process.
+Here is the visualization of our VSM and how it changed over time as we tweaked the process.
 ![VSM](images/VSM.png?raw=true "Value Stream Map")
-  
-  
-By performing this excersize you will identify the waste in your process and it will become clear what parts of it need to change. 
-Of course, you still don't know what items are valuable by themselves. For that, you need another metric.
+
+By performing this exercise, you will identify the waste in your process, and it will become clear what parts of it need change. Of course, you still don't know what work items are valuable by themselves. For that, you need another metric.
 
 ## Metrics
-#### 1. Value-adding vs non value-adding product backlog items
-By building a value strem map and eliminating waste you can speed up your processes. We would like to offer you a similar excersize only performed against your backlog which can help you speed up your delivery. What if you could put all the completed work into 2 similar buckets: value-adding and non-value adding. Examples could be adding new feature vs fixing bugs and technical debt. Both are important; we need to add new value while maintaining the existing value of our products. Once you have a distribution of work, e.g. the ratio between value-adding and non-value adding items, you can drill down on each of them and get even more insights. Having a lot of non-value adding work might create a perception of slowness.
+#### 1. Value-adding vs non-value adding product backlog items
+By building a value stream map and eliminating waste, you can speed up your processes. We would like to offer you a similar exercise only performed not against activities, but your backlog items. This exercise can give you insight into the speed of your value delivery. 
+
+Put all the completed work into two buckets: value-adding and non-value adding. We chose to mark new features as value-adding and add bugs and technical debt items to the non-value adding bucket. Both are important; we need to add new value while maintaining the existing value of our products. 
 
 ![Distribution of tickets](images/value-adding-vs-non-value-adding.png?raw=true "Value-adding vs non-value adding PBIs")
 
-From here, you can go further and drill down into what is on your non-value adding product backlog items and understand what is an underlying issue there, maybe you have a lot of bugs and there is a quality problem, or perhaps, it is a tech debt that's holding you back and doesn't allow to extend the product. 
-Having these data, you can get an idea of your delivery speed if you divide the amount of work done by the number of days it took to complete.
-Additionaly, you can measure the speed of individual features to see if you can support your perception of slowness with data.
+Once you have a distribution of work, e.g. the ratio between value-adding and non-value adding items, you can drill down on each of them and get even more insights. It could be that you have a lot of bugs, and there is a quality problem, or perhaps, it is a tech debt that's holding you back and doesn't allow extending the product. Having a lot of non-value adding work might create a perception of slowness in the eyes of the stakeholders.
+
 #### 2. Speed of the feature(s) (items per day)
-As a next step we decided to drill down into value adding bucket. We used jira epics as value-adding work items. For each epic we identified the duration(in days) and the number of tickets completed within that period. And by dividing the number of completed tickets by duration we calculated the speed of feature/epic delivery.
+As a next step, we decided to drill down into value adding bucket. We used jira epics as value-adding work items. For each epic we identified the duration(in days) and the number of tickets completed within that period. And by dividing the number of completed tickets by duration we calculated the speed of feature/epic delivery.
 
 ![Epic delivery speed](images/delivery-speed.png?raw=true "Epic delivery speed")
 
@@ -80,6 +81,11 @@ For comparison, we calculated the total delivery speed, see the last line in the
 
 What is the speed of your feature delivery? Is it fast? Or is it slow? Only you can answer this question as it's unique for your situation. 
 In our context we felt that feature delivery was way too far from the total speed. Given the symptoms we discussed earlier and the new insights, we decided to look into parallel work.
+
+//
+
+With this data, you can get an idea of your delivery speed if you divide the amount of work done by the number of days it took to complete.
+Additionaly, you can measure the speed of individual features to see if you can support your perception of slowness with data.
 
 #### 3. Number of parallel value-adding contexts
 
@@ -89,6 +95,7 @@ We plotted the features into a gantt chart.
 
 
 By plotting the work on the different value-adding contexts over time, you can see where work on these different contexts overlaps. Working on different contexts in the same timeframe suggests context switching. 
+
 ## Context switching
 Most likely, you already know that context switching is not your friend, but rather an enemy, that is stealing your time without you noticing it. The modern world is full of distractions: new email comes in, someone sends you a Slack message, one of the numerous apps on your phone sends you a notification, social media constantly screaming for your attention. The world is designed to distract you. It takes discipline and practice to restrain yourself from all these temptations, calling you every minute. But today we would like to leave daily distractions alone and focus on another level of context switching - project level. 
 
@@ -101,8 +108,9 @@ Jeff Sutherland, in his book Scrum: The Art of Doing Twice the Work in Half the 
 To get from context switching to focus:
 
 Resource utilization trap: https://www.youtube.com/watch?v=CostXs2p6r0
+
 ## Solutions
-  Acknowledgement of a problem is the first step towards its solution. There are number of things you could do next. And at first, we wanted to give you some tips. But those seemed obvious and tricky at the same time. We wanted to tell you to focus, focus on the right stuff, but often times it is easier said than done. We don't know your context and the reasons why this is happening in your organization. You might struggle to identify the right one from many or, perhaps, have difficulties explaining to your stakeholders why their project has to be put on hold.
+Acknowledgement of a problem is the first step towards its solution. There are number of things you could do next. And at first, we wanted to give you some tips. But those seemed obvious and tricky at the same time. We wanted to tell you to focus, focus on the right stuff, but often times it is easier said than done. We don't know your context and the reasons why this is happening in your organization. You might struggle to identify the right one from many or, perhaps, have difficulties explaining to your stakeholders why their project has to be put on hold.
 So, instead of giving an advice, we would like to ask you what would you do? How would you tackle this dysfuction? Would you address it at all?
 
 There is one more thing that we wanted to warn you about. Now, having the time to market calculated as a single number, it might be tempting to use it as a baseline and set a target to grow it, turn it into the new KPI. To be honest, that was my first instinct. After discussing it, we came into conclusion that it is not a good idea. The number can be easily gamed without giving you extra speed back. For example, by creating more of smaller size tickets the speed number will go up, but are you really going faster? We think it would benefit you to re-measure your focus and speed some time after you've implemented a change to see what is the effect of it. 
@@ -124,3 +132,4 @@ Focus not to increase productivity alone, but to increase engagement as well. No
 
 ### Acknowledgements
 Neither the research nor this blog would see the world if it wasn't for Jochum Börger, my colleague and friend, who has supported me all this time by co-creating, giving continuous feedback, and actually writing it together with me. Thank you, your contribution is invaluable!  
+
