@@ -74,7 +74,7 @@ By building a value stream map and eliminating waste, you can speed up your proc
 
 Put all the completed work into two buckets: value-adding and value-retaining. We chose to mark new features as value-adding and bugs and technical debt items as the value-retaining. Both are important; we need to add new value while maintaining the existing value of our products. 
 
-![Distribution of tickets](images/adding-vs-maintaining.png?raw=true "Distribution of work items")
+![Distribution of tickets](images/adding-vs-retaining.png?raw=true "Distribution of work items")
 
 Once you have a distribution of work, e.g. the ratio between value-adding and value-retaining items, you can drill down on each of them and get even more insights. In our situation we see that adding new value seems to have less priority than maintaning the existing value. It could mean that there is a lot of bugs, and there is a quality problem, or perhaps, it is a [tech debt](https://xebia.com/blog/using-metrics-to-find-the-pain-points-in-a-legacy-codebase/) that's holding them back and doesn't allow extending the product. Having a lot of value-retaining work might create a perception of slowness in the eyes of the stakeholders.
 
