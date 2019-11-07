@@ -52,7 +52,7 @@ At the heart of collaboration is communication. Look at how people around you co
 There are [many reasons](https://www.forbes.com/sites/carolkinseygoman/2014/03/02/the-story-of-why-people-dont-collaborate/) why people don't collaborate. They don't see the benefits of it, are afraid of being wrong and therefore vulnerable, don't trust their teammates, or they've tried before only to have their opinion ignored. Or maybe there is nothing to collaborate on?
 
 ### Team has nothing to present
-As a coach, I like to use the spring review as a vantage point to do observations. Do the sprint review meetings happen regularly? Do the teams have something to review? Do you feel like there is continuous progress? Perhaps you catch yourself wondering what the teams have been doing the entire sprint as they have very little or nothing to review. 
+As a coach, I like to use the sprint review as a vantage point to do observations. Do the sprint review meetings happen regularly? Do the teams have something to review? Do you feel like there is continuous progress? Perhaps you catch yourself wondering what the teams have been doing the entire sprint as they have very little or nothing to review. 
 
 > "If you can't measure it, you can't improve it." 
 > - Peter Drucker
