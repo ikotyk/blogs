@@ -17,7 +17,7 @@
 - [ ] Review
 - [ ] Fix comments
 - [X] Come up with the title and subtitles
-- [ ] Create new picture for context switching
+- [X] Create new picture for context switching
 - [ ] Fix Epic focus image epic in title
 - [X] Link to source for lack of collaboration reasons
 - [ ] Consider SEO
@@ -28,13 +28,12 @@
 
 
 # Value Focus: Measure your way to a better time to market
-
 There are several recurring wishes our clients bring to us, one of which is speed, shorter time to market. However, there is no dial that we can turn to deliver value faster. Software teams are not like cars; there's no acceleration pedal. Even if we try to speed up by adding more resources, in many cases, the actual bottleneck will just become more apparent.
 
 In our search for increased delivery of value, we hunt for these bottlenecks. No two contexts are the same, and for this story, we have a particular context in mind. Symptoms in different organizations are often similar, and our story might apply to your setting if you recognize the problems we encountered.
 
-## Symptoms of slowness
-As doctors, we always start by observing the symptoms of the problem at hand. There might be numerous symptoms of slowness one can notice in an organization, we would like to bring your attention to three we encountered:
+## Observing the symptoms
+Like doctors, we always start by observing the symptoms of the bottlenecks that can cause an increased time to market. There might be numerous signs one can notice in an organization, we would like to bring your attention to three we encountered:
  1. Perception of slowness
  2. Lack of collaboration
  3. Team has nothing to present
@@ -42,7 +41,7 @@ As doctors, we always start by observing the symptoms of the problem at hand. Th
 ### Perception of slowness
 Speed is a new currency. If you are fast, chances are you are going to be the first on the market with that new exciting feature. It is not about being better; it is about getting there first. Everyone is consumed by what's new. Few people are interested in what's better.
 
-Therefore, the lack of speed is noticed quite quickly. While competitors are already delivering features that are on your future roadmap, you still struggle to answer what value was added to your product last quarter or even last year. 
+Therefore, the lack of value delivered is noticed quite quickly. While competitors are already delivering features that are on your future roadmap, you still struggle to answer what value was added to your product last quarter or even last year. Although you might have done a lot of work, if it did not result in tangible and significant customer-facing changes, the perception might be that nothing was changed at all.
 
 ### Lack of collaboration
 Collaboration is the action of working with someone to produce something. In working together, there is an exchange of ideas; new and enhanced ideas are born. It allows you to deliver the best designs and the best software. Collaboration is a source of creativity and innovation; it promotes healthy employee relationships. It also creates a faster feedback loop and allows issues to be found and resolved earlier in the process.
