@@ -81,7 +81,7 @@ Once you have a distribution of work, e.g. the ratio between value-adding and va
 #### 2. Calculate the feature delivery speed
 As a next step, we decided to look deeper into the value-adding bucket. We used features as value-adding work. For each feature, we identified the duration (in days) and the number of work items completed within that period. By dividing the number of completed tickets by duration, we calculated the time to market of the feature.
 
-![Feature delivery speed](images/delivery-speed.png?raw=true "Feature time to market")
+![Feature delivery speed](images/feature-speed.png?raw=true "Feature time to market")
 
 For comparison, we calculated the total delivery speed.
 
@@ -91,7 +91,7 @@ In our context, we felt that feature delivery was way too far from the total spe
 #### 3. Visualize feature focus
 We plotted the features into a Gantt chart. 
 
-![Feature focus](images/epic-focus.png?raw=true "Feature focus")
+![Feature focus](images/feature-focus.png?raw=true "Feature focus")
 
 By plotting the work on the different value-adding contexts over time, you can see where work on these different contexts overlaps. Number of overlaps shows your focus, the higher the number the lower the focus. Working on various contexts in the same timeframe suggests context switching. 
 
