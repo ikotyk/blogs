@@ -28,6 +28,10 @@
 
 
 # Value Focus: Measure your way to a better time to market
+
+> “The successful warrior is the average man, with laser-like focus.”
+> - Bruce Lee
+
 There are several recurring wishes our clients bring to us, one of which is speed, shorter time to market. However, there is no dial that we can turn to deliver value faster. Software teams are not like cars; there's no acceleration pedal. Even if we try to speed up by adding more resources, in many cases, the actual bottleneck will just become more apparent.
 
 In our search for increased delivery of value, we hunt for these bottlenecks. No two contexts are the same, and for this story, we have a particular context in mind. Symptoms in different organizations are often similar, and our story might apply to your setting if you recognize the problems we encountered.
