@@ -69,14 +69,14 @@ Here is the visualization of our VSM and how it changed over time as we tweaked 
 By performing this exercise, you will identify the waste in your process, and it will become clear what parts of it need change. Of course, you still don't know what work items are valuable by themselves. For that, you need another metric.
 
 ## Drilling down into the backlog with the Value Focus Metrics
-#### 1. Indentify value-adding and non-value adding backlog items
-By building a value stream map and eliminating waste, you can speed up your processes. We would like to offer you a similar exercise only performed not against activities, but your backlog items. This exercise can give you insight into the speed of your feature delivery and value focus. 
+#### 1. Indentify value-adding and value-retaining backlog items
+By building a value stream map and eliminating waste, you can speed up your processes. We would like to offer you a similar exercise only performed not against activities, but against your backlog items. This exercise can give you insight into the speed of your feature delivery and value focus. 
 
-Put all the completed work into two buckets: value-adding and non-value adding. We chose to mark new features as value-adding and bugs and technical debt items as the non-value adding. Both are important; we need to add new value while maintaining the existing value of our products. 
+Put all the completed work into two buckets: value-adding and value-retaining. We chose to mark new features as value-adding and bugs and technical debt items as the value-retaining. Both are important; we need to add new value while maintaining the existing value of our products. 
 
 ![Distribution of tickets](images/adding-vs-maintaining.png?raw=true "Distribution of work items")
 
-Once you have a distribution of work, e.g. the ratio between value-adding and non-value adding items, you can drill down on each of them and get even more insights. In our situation we see that adding new value gets less priority than maintaning the existing value. It could mean that there is a lot of bugs, and there is a quality problem, or perhaps, it is a [tech debt](https://xebia.com/blog/using-metrics-to-find-the-pain-points-in-a-legacy-codebase/) that's holding them back and doesn't allow extending the product. Having a lot of non-value adding work might create a perception of slowness in the eyes of the stakeholders.
+Once you have a distribution of work, e.g. the ratio between value-adding and value-retaining items, you can drill down on each of them and get even more insights. In our situation we see that adding new value seems to have less priority than maintaning the existing value. It could mean that there is a lot of bugs, and there is a quality problem, or perhaps, it is a [tech debt](https://xebia.com/blog/using-metrics-to-find-the-pain-points-in-a-legacy-codebase/) that's holding them back and doesn't allow extending the product. Having a lot of value-retaining work might create a perception of slowness in the eyes of the stakeholders.
 
 #### 2. Calculate the feature delivery speed
 As a next step, we decided to look deeper into the value-adding bucket. We used features as value-adding work. For each feature, we identified the duration (in days) and the number of work items completed within that period. By dividing the number of completed tickets by duration, we calculated the time to market of the feature.
