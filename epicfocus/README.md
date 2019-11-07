@@ -33,7 +33,7 @@ There are several recurring wishes our clients bring to us, one of which is spee
 In our search for increased delivery of value, we hunt for these bottlenecks. No two contexts are the same, and for this story, we have a particular context in mind. Symptoms in different organizations are often similar, and our story might apply to your setting if you recognize the problems we encountered.
 
 ## Observing the symptoms
-Like doctors, we always start by observing the symptoms of the bottlenecks that can cause an increased time to market. There might be numerous signs one can notice in an organization, we would like to bring your attention to three we encountered:
+Like doctors, we always start by observing the symptoms of the bottlenecks that can slow down time to market. There might be numerous signs one can notice in an organization, we would like to bring your attention to three we encountered:
  1. Perception of slowness
  2. Lack of collaboration
  3. Team has nothing to present
