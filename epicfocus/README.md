@@ -14,13 +14,13 @@
 - [X] Add images
 - [X] Check with grammarly
 - [X] Editing - second iteration on each section
-- [ ] Review
-- [ ] Fix comments
+- [X] Review
+- [X] Fix comments
 - [X] Come up with the title and subtitles
 - [X] Create new picture for context switching
-- [ ] Fix Epic focus image epic in title
+- [X] Fix Epic focus image epic in title
 - [X] Link to source for lack of collaboration reasons
-- [ ] Consider SEO
+- [X] Consider SEO
 - [ ] Move it to wordpress and publish
 - [ ] Distribute via social media, etc.
 - [ ] Celebrate
