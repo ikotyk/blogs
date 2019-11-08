@@ -1,33 +1,3 @@
-# Progress
-- [X] Create a framework
-- [X] Value stream
-- [X] Metrics
-- [X] Create introduction
-- [X] Create Symptoms
-  - [X] Perception of slowness
-  - [X] Lack of or no collaboration
-  - [X] There is nothing to show during the sprint review
-- [X] Context switching
-- [X] Research the research on context switching
-- [X] Solutions
-- [X] Ending
-- [X] Add images
-- [X] Check with grammarly
-- [X] Editing - second iteration on each section
-- [X] Review
-- [X] Fix comments
-- [X] Come up with the title and subtitles
-- [X] Create new picture for context switching
-- [X] Fix Epic focus image epic in title
-- [X] Link to source for lack of collaboration reasons
-- [X] Consider SEO
-- [X] Move it to wordpress 
-- [ ] Publish
-- [ ] Distribute via social media, etc.
-- [ ] Celebrate
-- [ ] Measure # of views every day, drink if it is high :), drink if it is low :(
-
-
 # Value Focus: Measure your way to a better time to market
 
 > "The successful warrior is the average man, with laser-like focus."
@@ -125,3 +95,35 @@ Create focus not to increase productivity alone, but to grow engagement as well.
 
 ### Acknowledgements
 Neither the research nor this blog would see the world if it wasn't for [Jochum Börger](https://xebia.com/blog/author/jborgerxebia-com/), my colleague and friend, who has supported me all this time by co-creating, giving continuous feedback, and actually writing it together with me. Thank you, your contribution is invaluable!
+
+
+
+
+# Progress
+- [X] Create a framework
+- [X] Value stream
+- [X] Metrics
+- [X] Create introduction
+- [X] Create Symptoms
+  - [X] Perception of slowness
+  - [X] Lack of or no collaboration
+  - [X] There is nothing to show during the sprint review
+- [X] Context switching
+- [X] Research the research on context switching
+- [X] Solutions
+- [X] Ending
+- [X] Add images
+- [X] Check with grammarly
+- [X] Editing - second iteration on each section
+- [X] Review
+- [X] Fix comments
+- [X] Come up with the title and subtitles
+- [X] Create new picture for context switching
+- [X] Fix Epic focus image epic in title
+- [X] Link to source for lack of collaboration reasons
+- [X] Consider SEO
+- [X] Move it to wordpress 
+- [ ] Publish
+- [ ] Distribute via social media, etc.
+- [ ] Celebrate
+- [ ] Measure # of views every day, drink if it is high :), drink if it is low :(
