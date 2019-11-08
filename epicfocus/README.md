@@ -64,7 +64,7 @@ As a coach, I like to use the sprint review as a vantage point to do observation
 The symptoms we observe are a good starting point for change. We now want to support these observations with data. One way to examine your development process is to [create a value stream map or VSM](https://xebia.com/blog/how-to-create-a-value-stream-map/). It is an inventory of all the activities that happen before a piece of software hits production. You also want to know how much time each activity takes. Make sure to record all the waiting times, such as waiting for code review, waiting for approval(s), waiting for deploy, etc.  Once you have that, you can put them in two buckets: value-adding and non-value adding activities or, in other words, waste. It is quite intuitive that activities such as writing code, writing tests, and reviewing the code, are considered as value-adding while all kinds of waits belong to waste. 
 
 Here is the visualization of our VSM and how it changed over time as we tweaked the process.
-![VSM](images/VSM.png?raw=true "Value Stream Map")
+![VSM](images/vsm.png?raw=true "Value Stream Map")
 
 By performing this exercise, you will identify the waste in your process, and it will become clear what parts of it need change. Of course, you still don't know what work items are valuable by themselves. For that, you need another metric.
 
