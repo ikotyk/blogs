@@ -21,7 +21,8 @@
 - [X] Fix Epic focus image epic in title
 - [X] Link to source for lack of collaboration reasons
 - [X] Consider SEO
-- [ ] Move it to wordpress and publish
+- [X] Move it to wordpress 
+- [ ] Publish
 - [ ] Distribute via social media, etc.
 - [ ] Celebrate
 - [ ] Measure # of views every day, drink if it is high :), drink if it is low :(
@@ -38,10 +39,10 @@ In our search for increased delivery of value, we hunt for these bottlenecks. No
 
 ## Observing the symptoms
 Like doctors, we always start by observing the symptoms of the bottlenecks that can slow down time to market. There might be numerous signs one can notice in an organization. We would like to bring your attention to three we encountered:
- 1. Perception of slowness
- 2. Lack of collaboration
- 3. Team has nothing to present
-  
+1. Perception of slowness
+2. Lack of collaboration
+3. Team has nothing to present
+
 ### Perception of slowness
 Speed is a new currency. If you are fast, chances are you are going to be the first on the market with that new exciting feature. It is not about being better; it is about getting there first. Everyone is consumed by what's new. Few people are interested in what's better.
 
@@ -55,24 +56,24 @@ At the heart of collaboration is communication. Look at how people around you co
 There are [many reasons](https://www.forbes.com/sites/carolkinseygoman/2014/03/02/the-story-of-why-people-dont-collaborate/) why people don't collaborate. They don't see the benefits of it, are afraid of being wrong and therefore vulnerable, don't trust their teammates, or they've tried before only to have their opinion ignored. Or maybe there is nothing to collaborate on?
 
 ### Team has nothing to present
-As a coach, I like to use the sprint review as a vantage point to do observations. Do the sprint review meetings happen regularly? Do the teams have something to review? Do you feel like there is continuous progress? Perhaps you catch yourself wondering what the teams have been doing the entire sprint as they have very little or nothing to review. 
+As a coach, I like to use the sprint review as a vantage point to do observations. Do the sprint review meetings happen regularly? Do the teams have something to review? Do you feel like there is continuous progress? Perhaps you catch yourself wondering what the teams have been doing the entire sprint as they have very little or nothing to review.
 
-> "If you can't measure it, you can't improve it." 
+> "If you can't measure it, you can't improve it."
 > - Peter Drucker
-  
+
 ## Measuring the process with the Value Stream Map
-The symptoms we observe are a good starting point for change. We now want to support these observations with data. One way to examine your development process is to [create a value stream map or VSM](https://xebia.com/blog/how-to-create-a-value-stream-map/). It is an inventory of all the activities that happen before a piece of software hits production. You also want to know how much time each activity takes. Make sure to record all the waiting times, such as waiting for code review, waiting for approval(s), waiting for deploy, etc.  Once you have that, you can put them in two buckets: value-adding and non-value adding activities or, in other words, waste. It is quite intuitive that activities such as writing code, writing tests, and reviewing the code, are considered as value-adding while all kinds of waits belong to waste. 
+The symptoms we observe are a good starting point for change. We now want to support these observations with data. One way to examine your development process is to [create a value stream map or VSM](https://xebia.com/blog/how-to-create-a-value-stream-map/). It is an inventory of all the activities that happen before a piece of software hits production. You also want to know how much time each activity takes. Make sure to record all the waiting times, such as waiting for code review, waiting for approval(s), waiting for deploy, etc. Once you have that, you can put them in two buckets: value-adding and non-value adding activities or, in other words, waste. It is quite intuitive that activities such as writing code, writing tests, and reviewing the code, are considered as value-adding while all kinds of waits belong to waste.
 
 Here is the visualization of our VSM and how it changed over time as we tweaked the process.
 ![VSM](images/vsm.png?raw=true "Value Stream Map")
 
 By performing this exercise, you will identify the waste in your process, and it will become clear what parts of it need change. Of course, you still don't know what work items are valuable by themselves. For that, you need another metric.
 
-## Drilling down into the backlog with the Value Focus Metrics
+## Drilling down into the backlog with the Epic Focus Metrics
 #### 1. Identify value-adding and value-retaining backlog items
-By building a value stream map and eliminating waste, you can speed up your processes. We would like to offer you a similar exercise only performed not against activities, but against your backlog items. This exercise can give you insight into the speed of your feature delivery and value focus. 
+By building a value stream map and eliminating waste, you can speed up your processes. We would like to offer you a similar exercise only performed not against activities, but against your backlog items. This exercise can give you insight into the speed of your feature delivery and your focus on value.
 
-Put all the completed work into two buckets: value-adding and value-retaining. We chose to mark new features as value-adding and bugs and technical debt items as the value-retaining. Both are important; we need to add new value while maintaining the existing value of our products. 
+Put all the completed work into two buckets: value-adding and value-retaining. We chose to mark new features, or epics, as value-adding and bugs and technical debt items as value-retaining. Both are important; we need to add new value while maintaining the existing value of our products.
 
 ![Distribution of tickets](images/adding-vs-retaining.png?raw=true "Distribution of work items")
 
@@ -85,31 +86,31 @@ As a next step, we decided to look deeper into the value-adding bucket. We used 
 
 For comparison, we calculated the total delivery speed.
 
-What is the speed of your feature delivery? Is it fast? Or is it slow? Only you can answer this question as it's unique for your situation. 
+What is the speed of your feature delivery? Is it fast? Or is it slow? Only you can answer this question as it's unique for your situation.
 In our context, we felt that feature delivery was way too far from the total speed, and we wanted to know why. In search of an answer, we decided to look into parallel work.
 
-#### 3. Visualize feature focus
-We plotted the features into a Gantt chart. 
+#### 3. Visualize Epic Focus
+We plotted the epics/features, into a Gantt chart.
 
 ![Feature focus](images/feature-focus.png?raw=true "Feature focus")
 
-By plotting the work on the different value-adding contexts over time, you can see where work on these different contexts overlaps. The number of overlaps shows your focus; the higher the number, the lower the focus. Working on various contexts in the same timeframe suggests context switching. 
+By plotting the work on the different value-adding contexts over time, you can see where work on these different contexts overlaps. The number of overlaps shows your focus; the higher the number, the lower the focus. Working on various contexts in the same timeframe suggests context switching.
 
 ## Context switching - the enemy of focus
-Most likely, you already know that context switching is not your friend, but rather an enemy, that is stealing your precious time without you noticing it. The modern world is full of distractions: new email comes in, someone sends you a Slack message, one of the numerous apps on your phone sends you a notification, social media continually screaming for your attention. The world is designed to distract you. It takes discipline and practice to restrain yourself from all these temptations, calling you every minute. But let's leave these daily distractions for now and focus on another level of context switching: project-level. 
+Most likely, you already know that context switching is not your friend, but rather an enemy, that is stealing your precious time without you noticing it. The modern world is full of distractions: new email comes in, someone sends you a Slack message, one of the numerous apps on your phone sends you a notification, social media continually screaming for your attention. The world is designed to distract you. It takes discipline and practice to restrain yourself from all these temptations, calling you every minute. But let's leave these daily distractions for now and focus on another level of context switching: project-level.
 
 Many companies or individual product managers lack the means to prioritize and order their backlogs properly or have difficulties saying 'No' to their various stakeholders. As a result of these shortcomings, teams are tasked to work on everything at the same time. As time goes by, everything is in progress, and little is finished. Half done isn't done at all. The cost of such decisions is very high. Gerald Weinberg, in his book Quality Software Management: Systems Thinking, offers an illustration of the cost of context switching:
 
 ![Context Switching](images/context-switching.png?raw=true "Waste percentage from switching context")
 
-Jeff Sutherland, in his book Scrum: The Art of Doing Twice the Work in Half the Time, speaks at length about damages of context switching. He calls waste a crime and encourages agile teams to do one thing at a time. 
+Jeff Sutherland, in his book Scrum: The Art of Doing Twice the Work in Half the Time, speaks at length about damages of context switching. He calls waste a crime and encourages agile teams to do one thing at a time.
 
 Eureka! Every symptom we observed can be explained. It felt slow because of the lack of focus; everything was being worked on in parallel and took ages to complete. Teams didn't collaborate because there was no shared goal - the sprint backlog was a selection of unrelated stories and tasks. Nothing tangible could be shown during the review, as they had little progress in various directions. They were going everywhere and arriving nowhere.
 
 ## Increase focus
-Acknowledgment of a problem is the first step towards its solution. There are several things you could do next. And at first, we aspired to give you some tips. But those seemed obvious and tricky at the same time. We wanted to tell you to focus, focus on the right stuff, but often it is easier said than done. 
+Acknowledgment of a problem is the first step towards its solution. There are several things you could do next. And at first, we aspired to give you some tips. But those seemed obvious and tricky at the same time. We wanted to tell you to focus, focus on the right stuff, but often it is easier said than done.
 
-We don't know your context and the reasons why this might be happening in your organization. Perhaps you're struggling to identify the right priority from many options, or maybe you have difficulties explaining to your stakeholders why you're putting their project on hold. 
+We don't know your context and the reasons why this might be happening in your organization. Perhaps you're struggling to identify the right priority from many options, or maybe you have difficulties explaining to your stakeholders why you're putting their project on hold.
 
 So, instead of giving advice, we would like to ask you what you would do? How would you tackle this dysfunction? Would you address it at all?
 
