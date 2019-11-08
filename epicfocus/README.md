@@ -29,7 +29,7 @@
 
 # Value Focus: Measure your way to a better time to market
 
-> “The successful warrior is the average man, with laser-like focus.”
+> "The successful warrior is the average man, with laser-like focus."
 > - Bruce Lee
 
 There are several recurring wishes our clients bring to us, one of which is speed, shorter time to market. However, there is no dial that we can turn to deliver value faster. Software teams are not like cars; there's no acceleration pedal. Even if we try to speed up by adding more resources, in many cases, the actual bottleneck will just become more apparent.
@@ -37,7 +37,7 @@ There are several recurring wishes our clients bring to us, one of which is spee
 In our search for increased delivery of value, we hunt for these bottlenecks. No two contexts are the same, and for this story, we have a particular context in mind. Symptoms in different organizations are often similar, and our story might apply to your setting if you recognize the problems we encountered.
 
 ## Observing the symptoms
-Like doctors, we always start by observing the symptoms of the bottlenecks that can slow down time to market. There might be numerous signs one can notice in an organization, we would like to bring your attention to three we encountered:
+Like doctors, we always start by observing the symptoms of the bottlenecks that can slow down time to market. There might be numerous signs one can notice in an organization. We would like to bring your attention to three we encountered:
  1. Perception of slowness
  2. Lack of collaboration
  3. Team has nothing to present
@@ -69,14 +69,14 @@ Here is the visualization of our VSM and how it changed over time as we tweaked 
 By performing this exercise, you will identify the waste in your process, and it will become clear what parts of it need change. Of course, you still don't know what work items are valuable by themselves. For that, you need another metric.
 
 ## Drilling down into the backlog with the Value Focus Metrics
-#### 1. Indentify value-adding and value-retaining backlog items
+#### 1. Identify value-adding and value-retaining backlog items
 By building a value stream map and eliminating waste, you can speed up your processes. We would like to offer you a similar exercise only performed not against activities, but against your backlog items. This exercise can give you insight into the speed of your feature delivery and value focus. 
 
 Put all the completed work into two buckets: value-adding and value-retaining. We chose to mark new features as value-adding and bugs and technical debt items as the value-retaining. Both are important; we need to add new value while maintaining the existing value of our products. 
 
 ![Distribution of tickets](images/adding-vs-retaining.png?raw=true "Distribution of work items")
 
-Once you have a distribution of work, e.g. the ratio between value-adding and value-retaining items, you can drill down on each of them and get even more insights. In our situation we see that adding new value seems to have less priority than maintaning the existing value. It could mean that there is a lot of bugs, and there is a quality problem, or perhaps, it is a [tech debt](https://xebia.com/blog/using-metrics-to-find-the-pain-points-in-a-legacy-codebase/) that's holding them back and doesn't allow extending the product. Having a lot of value-retaining work might create a perception of slowness in the eyes of the stakeholders.
+Once you have a distribution of work, e.g. the ratio between value-adding and value-retaining items, you can drill down on each of them and get even more insights. In our situation, we see that adding new value seems to have less priority than maintaining the existing value. It could mean that there is a lot of bugs, and there is a quality problem, or perhaps, it is a [tech debt](https://xebia.com/blog/using-metrics-to-find-the-pain-points-in-a-legacy-codebase/) that's holding them back and doesn't allow extending the product. Having a lot of value-retaining work might create a perception of slowness in the eyes of the stakeholders.
 
 #### 2. Calculate the feature delivery speed
 As a next step, we decided to look deeper into the value-adding bucket. We used features as value-adding work. For each feature, we identified the duration (in days) and the number of work items completed within that period. By dividing the number of completed tickets by duration, we calculated the time to market of the feature.
@@ -93,7 +93,7 @@ We plotted the features into a Gantt chart.
 
 ![Feature focus](images/feature-focus.png?raw=true "Feature focus")
 
-By plotting the work on the different value-adding contexts over time, you can see where work on these different contexts overlaps. Number of overlaps shows your focus, the higher the number the lower the focus. Working on various contexts in the same timeframe suggests context switching. 
+By plotting the work on the different value-adding contexts over time, you can see where work on these different contexts overlaps. The number of overlaps shows your focus; the higher the number, the lower the focus. Working on various contexts in the same timeframe suggests context switching. 
 
 ## Context switching - the enemy of focus
 Most likely, you already know that context switching is not your friend, but rather an enemy, that is stealing your precious time without you noticing it. The modern world is full of distractions: new email comes in, someone sends you a Slack message, one of the numerous apps on your phone sends you a notification, social media continually screaming for your attention. The world is designed to distract you. It takes discipline and practice to restrain yourself from all these temptations, calling you every minute. But let's leave these daily distractions for now and focus on another level of context switching: project-level. 
@@ -104,7 +104,7 @@ Many companies or individual product managers lack the means to prioritize and o
 
 Jeff Sutherland, in his book Scrum: The Art of Doing Twice the Work in Half the Time, speaks at length about damages of context switching. He calls waste a crime and encourages agile teams to do one thing at a time. 
 
-Eureka! Every symptom we observed can be explained. It felt slow because of the lack of focus, everything was being worked on in parallel and took ages to complete. Teams didn't collaborate because there was no shared goal - the sprint backlog was a selection of unrelated stories and tasks. Nothing tangible could be shown during the review, as they had little progress in various directions. They were going everywhere and arriving nowhere.
+Eureka! Every symptom we observed can be explained. It felt slow because of the lack of focus; everything was being worked on in parallel and took ages to complete. Teams didn't collaborate because there was no shared goal - the sprint backlog was a selection of unrelated stories and tasks. Nothing tangible could be shown during the review, as they had little progress in various directions. They were going everywhere and arriving nowhere.
 
 ## Increase focus
 Acknowledgment of a problem is the first step towards its solution. There are several things you could do next. And at first, we aspired to give you some tips. But those seemed obvious and tricky at the same time. We wanted to tell you to focus, focus on the right stuff, but often it is easier said than done. 
@@ -123,5 +123,4 @@ But are we happy? The resources we're dealing with they are human beings; even w
 Create focus not to increase productivity alone, but to grow engagement as well. Now we need to look for a fourth metric to validate — the measure of engagement.
 
 ### Acknowledgements
-Neither the research nor this blog would see the world if it wasn't for [Jochum Börger](https://xebia.com/blog/author/jborgerxebia-com/), my colleague and friend, who has supported me all this time by co-creating, giving continuous feedback, and actually writing it together with me. Thank you, your contribution is invaluable!  
-
+Neither the research nor this blog would see the world if it wasn't for [Jochum Börger](https://xebia.com/blog/author/jborgerxebia-com/), my colleague and friend, who has supported me all this time by co-creating, giving continuous feedback, and actually writing it together with me. Thank you, your contribution is invaluable!
