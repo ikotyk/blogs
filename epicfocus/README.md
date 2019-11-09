@@ -1,4 +1,4 @@
-# Value Focus: Measure your way to a better time to market
+# Epic Focus: Measure your way to a better time to market
 
 > "The successful warrior is the average man, with laser-like focus."
 > - Bruce Lee
