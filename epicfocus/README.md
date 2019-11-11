@@ -1,5 +1,5 @@
 # Epic Focus: Measure your way to a better time to market
-There are several recurring wishes our clients bring to us, one of which is speed, shorter time to market. However, there is no dial that we can turn to deliver value faster. Software teams are not like cars; there's no accelerator pedal. Even if we try to speed up by adding more resources, in many cases, the actual bottleneck will just become more apparent.
+There are several recurring wishes our clients bring to us, one of which is speed, to improve time to market. However, there is no dial that we can turn to deliver value faster. Software teams are not like cars; there's no accelerator pedal. Even if we try to speed up by adding more resources, in many cases, the actual bottleneck will just become more apparent.
 
 In our search for increased delivery of value, we hunt for these bottlenecks. No two contexts are the same, and for this story, we have a particular context in mind. Symptoms in different organizations are often similar, and our story might apply to your setting if you recognize the problems we encountered.
 
@@ -37,7 +37,7 @@ By performing this exercise, you will identify the waste in your process, and it
 
 ## Drilling down into the backlog with the Epic Focus Metrics
 #### 1. Identify value-adding and value-retaining backlog items
-By building a value stream map and eliminating waste, you can speed up your processes. We would like to offer you a similar exercise only performed not against activities, but against your backlog items. This exercise can give you insight into the speed of your feature delivery and your focus on value.
+By building a value stream map and eliminating waste, you can speed up your processes. We would like to offer you a similar exercise only performed not against activities, but against your backlog items. This activity can give you insight into the speed of your feature delivery and your focus on value.
 
 Put all the completed work into two buckets: value-adding and value-retaining. We chose to mark new features, or epics, as value-adding and bugs and technical debt items as value-retaining. Both are important; we need to add new value while maintaining the existing value of our products.
 
@@ -46,17 +46,17 @@ Put all the completed work into two buckets: value-adding and value-retaining. W
 Once you have a distribution of work, e.g. the ratio between value-adding and value-retaining items, you can drill down on each of them and get even more insights. In our situation, we see that adding new value seems to have less priority than maintaining the existing value. It could mean that there is a lot of bugs, and there is a quality problem, or perhaps, it is a [tech debt](https://xebia.com/blog/using-metrics-to-find-the-pain-points-in-a-legacy-codebase/) that's holding them back and doesn't allow extending the product. Having a lot of value-retaining work might create a perception of slowness in the eyes of the stakeholders.
 
 #### 2. Calculate the feature delivery speed
-As a next step, we decided to look deeper into the value-adding bucket. We used features as value-adding work. For each feature, we identified the duration (in days) and the number of work items completed within that period. By dividing the number of completed tickets by duration, we calculated the time to market of the feature.
+As a next step, we decided to look deeper into the value-adding bucket. We used epics/features as value-adding work. For each feature, we identified the duration (in days) and the number of work items completed within that period. By dividing the number of completed tickets by duration, we calculated the time to market of the feature.
 
 ![Feature delivery speed](images/feature-speed-1.png?raw=true "Feature time to market")
 
-For comparison, we calculated the total delivery speed.
+For comparison, we calculated the total delivery speed – the speed of the features development and other stuff combined.
 
 What is the speed of your feature delivery? Is it fast? Or is it slow? Only you can answer this question as it's unique for your situation.
 In our context, we felt that feature delivery was way too far from the total speed, and we wanted to know why. In search of an answer, we decided to look into parallel work.
 
 #### 3. Visualize Epic Focus
-We plotted the epics/features, into a Gantt chart.
+We plotted the epics/features into a Gantt chart.
 
 ![Feature focus](images/feature-focus.png?raw=true "Feature focus")
 
