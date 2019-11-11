@@ -1,9 +1,5 @@
 # Epic Focus: Measure your way to a better time to market
-
-> "The successful warrior is the average man, with laser-like focus."
-> - Bruce Lee
-
-There are several recurring wishes our clients bring to us, one of which is speed, shorter time to market. However, there is no dial that we can turn to deliver value faster. Software teams are not like cars; there's no acceleration pedal. Even if we try to speed up by adding more resources, in many cases, the actual bottleneck will just become more apparent.
+There are several recurring wishes our clients bring to us, one of which is speed, shorter time to market. However, there is no dial that we can turn to deliver value faster. Software teams are not like cars; there's no accelerator pedal. Even if we try to speed up by adding more resources, in many cases, the actual bottleneck will just become more apparent.
 
 In our search for increased delivery of value, we hunt for these bottlenecks. No two contexts are the same, and for this story, we have a particular context in mind. Symptoms in different organizations are often similar, and our story might apply to your setting if you recognize the problems we encountered.
 
@@ -21,7 +17,7 @@ Therefore, the lack of value delivered is noticed quite quickly. While competito
 ### Lack of collaboration
 Collaboration is the action of working with someone to produce something. In working together, there is an exchange of ideas; new and enhanced ideas are born. It allows you to deliver the best designs and the best software. Collaboration is a source of creativity and innovation; it promotes healthy employee relationships. It also creates a faster feedback loop and allows issues to be found and resolved earlier in the process.
 
-At the heart of collaboration is communication. Look at how people around you communicate, do they prefer face-to-face communication, or are email and slack their goto options? Do you see people working on one computer? Do they look like a team?
+At the heart of collaboration is communication. Look at how people around you communicate. Do they prefer face-to-face communication, or are email and Slack their goto options? Do you see people working on one computer? Do they look like a team?
 
 There are [many reasons](https://www.forbes.com/sites/carolkinseygoman/2014/03/02/the-story-of-why-people-dont-collaborate/) why people don't collaborate. They don't see the benefits of it, are afraid of being wrong and therefore vulnerable, don't trust their teammates, or they've tried before only to have their opinion ignored. Or maybe there is nothing to collaborate on?
 
@@ -32,10 +28,10 @@ As a coach, I like to use the sprint review as a vantage point to do observation
 > - Peter Drucker
 
 ## Measuring the process with the Value Stream Map
-The symptoms we observe are a good starting point for change. We now want to support these observations with data. One way to examine your development process is to [create a value stream map or VSM](https://xebia.com/blog/how-to-create-a-value-stream-map/). It is an inventory of all the activities that happen before a piece of software hits production. You also want to know how much time each activity takes. Make sure to record all the waiting times, such as waiting for code review, waiting for approval(s), waiting for deploy, etc. Once you have that, you can put them in two buckets: value-adding and non-value adding activities or, in other words, waste. It is quite intuitive that activities such as writing code, writing tests, and reviewing the code, are considered as value-adding while all kinds of waits belong to waste.
+The symptoms we observe are a good starting point for change. We now want to support these observations with data. One way to examine your development process is to [create a value stream map or VSM](https://xebia.com/blog/how-to-create-a-value-stream-map/). It is an inventory of all the activities that happen before a piece of software hits production. You also want to know how much time each activity takes. Make sure to record all the waiting times, such as waiting for code review, waiting for approval(s), waiting for deployment, etc. Once you have that, you can put them in two buckets: value-adding and non-value adding activities or, in other words, waste. It is quite intuitive that activities such as writing code, writing tests, and reviewing the code, are considered as value-adding while all kinds of waits belong to waste.
 
 Here is the visualization of our VSM and how it changed over time as we tweaked the process.
-![VSM](images/vsm.png?raw=true "Value Stream Map")
+![VSM](images/vsm-1.png?raw=true "Value Stream Map")
 
 By performing this exercise, you will identify the waste in your process, and it will become clear what parts of it need change. Of course, you still don't know what work items are valuable by themselves. For that, you need another metric.
 
@@ -45,14 +41,14 @@ By building a value stream map and eliminating waste, you can speed up your proc
 
 Put all the completed work into two buckets: value-adding and value-retaining. We chose to mark new features, or epics, as value-adding and bugs and technical debt items as value-retaining. Both are important; we need to add new value while maintaining the existing value of our products.
 
-![Distribution of tickets](images/adding-vs-retaining.png?raw=true "Distribution of work items")
+![Distribution of tickets](images/adding-vs-retaining-1.png?raw=true "Distribution of work items")
 
 Once you have a distribution of work, e.g. the ratio between value-adding and value-retaining items, you can drill down on each of them and get even more insights. In our situation, we see that adding new value seems to have less priority than maintaining the existing value. It could mean that there is a lot of bugs, and there is a quality problem, or perhaps, it is a [tech debt](https://xebia.com/blog/using-metrics-to-find-the-pain-points-in-a-legacy-codebase/) that's holding them back and doesn't allow extending the product. Having a lot of value-retaining work might create a perception of slowness in the eyes of the stakeholders.
 
 #### 2. Calculate the feature delivery speed
 As a next step, we decided to look deeper into the value-adding bucket. We used features as value-adding work. For each feature, we identified the duration (in days) and the number of work items completed within that period. By dividing the number of completed tickets by duration, we calculated the time to market of the feature.
 
-![Feature delivery speed](images/feature-speed.png?raw=true "Feature time to market")
+![Feature delivery speed](images/feature-speed-1.png?raw=true "Feature time to market")
 
 For comparison, we calculated the total delivery speed.
 
@@ -89,9 +85,9 @@ We strongly believe that by increasing focus and reducing context switching, you
 ## Dream of engagement
 Our story is complete. The symptoms we observed led us through different measurements to find a bottleneck that we can now solve. Our resources can be more productive. Numbers go up, stakeholders are happy.
 
-But are we happy? The resources we're dealing with they are human beings; even worse, they are knowledge workers. When we're dealing with people, we dream of increasing engagement. When trying to create more focus, we should start with a clear and compelling goal to give our teams a purpose.
+But are we happy? The resources we're dealing with, they are human beings; even worse, they are knowledge workers. When we're dealing with people, we dream of increased engagement. When trying to create more focus, we should start with a clear and compelling goal to give our teams a purpose.
 
-Create focus not to increase productivity alone, but to grow engagement as well. Now we need to look for a fourth metric to validate — the measure of engagement.
+Create focus not to improve time to market and increase productivity alone, but to grow engagement as well. It would be great if we can come up with a fourth metric to validate — the measure of engagement.
 
 ### Acknowledgements
 Neither the research nor this blog would see the world if it wasn't for [Jochum Börger](https://xebia.com/blog/author/jborgerxebia-com/), my colleague and friend, who has supported me all this time by co-creating, giving continuous feedback, and actually writing it together with me. Thank you, your contribution is invaluable!
