@@ -1,3 +1,5 @@
+Published at [Xebia Blog](https://xebia.com/blog/epic-focus-measure-your-way-to-a-better-time-to-market/) on 12-11-2019.
+
 # Epic Focus: Measure your way to a better time to market
 There are several recurring wishes our clients bring to us, one of which is speed, to improve time to market. However, there is no dial that we can turn to deliver value faster. Software teams are not like cars; there's no accelerator pedal. Even if we try to speed up by adding more resources, in many cases, the actual bottleneck will just become more apparent.
 
@@ -119,7 +121,7 @@ Neither the research nor this blog would see the world if it wasn't for [Jochum 
 - [X] Link to source for lack of collaboration reasons
 - [X] Consider SEO
 - [X] Move it to wordpress 
-- [ ] Publish
+- [X] Publish
 - [ ] Distribute via social media, etc.
 - [ ] Celebrate
 - [ ] Measure # of views every day, drink if it is high :), drink if it is low :(
