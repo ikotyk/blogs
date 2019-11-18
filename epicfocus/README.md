@@ -122,6 +122,6 @@ Neither the research nor this blog would see the world if it wasn't for [Jochum 
 - [X] Consider SEO
 - [X] Move it to wordpress 
 - [X] Publish
-- [ ] Distribute via social media, etc.
+- [X] Distribute via social media, etc.
 - [ ] Celebrate
 - [ ] Measure # of views every day, drink if it is high :), drink if it is low :(
