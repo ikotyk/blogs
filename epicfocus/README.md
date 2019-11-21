@@ -123,6 +123,7 @@ Neither the research nor this blog would see the world if it wasn't for [Jochum 
 - [X] Move it to wordpress 
 - [X] Publish
 - [X] Distribute via social media, etc.
-- [ ] Ask Agile mailinglist guy to post blog
+- [X] Ask Agile mailinglist guy to post blog
+- [ ] Ask Rachel to publish it in other channels
 - [ ] Celebrate
 - [ ] Measure # of views every day, drink if it is high :), drink if it is low :(
