@@ -51,10 +51,13 @@ There must be some decisions leading up to these team compositions.
 What drives your hiring? How do you choose roles in a team? Compulsive pattern following? Do you reflect on these decisions? Do you get the value you expected?
 
 ## The rise of the test automator
+> “If I had asked people what they wanted, they would have said faster horses.”
+> Henry Ford
+
 Once upon a time there have been teams, and they were slow.
 These teams had testers, manual testers, doing manual regression testing. Not just that; they were slow testers.
-Before there were cars, people wanted faster horses.
-Well, we want faster testers! What is the car equivilent to that?
+
+Well, we want faster testers! What is the car equivilent to that? - Test automation!
 
 The test automator was born.
 The tester, rissen from their ashes, not only doing testing faster, but doing it automatically.
@@ -63,8 +66,17 @@ The tester, rissen from their ashes, not only doing testing faster, but doing it
 
 
 ## Wearing two hats
-As a tester now all of a sudden you're expected to be a car. 
+As a tester, now, all of a sudden, you're expected to be a car. 
+The need for speed has broung to life number of tools with record-and-play options, meant for people without development experience. Now the same scenarios that were performed manually have been recorded and played by the tool. End to end testing was born. It seemed like a good idea, but is it actually good? 
+People withot development experience started writing the test code. 
+There are number of issues with end to end testing: flaky, slow, difficult to write, debugging is not easy
+Finding the root cause for a failing end-to-end test is painful and can take a long time. 
 
+
+There are different flavours of test automators on the market: ex-manual testers doing automation only, ex-manual testers trying to balance both automation and exploratory testing, automators without prior testing experience, ex-developers. This list is not exhaustive and there is more to add, these are just the most common paths.
+Let's have a closer look at each type. 
+1. Ex-manual testers doing automation only
+These guys are good in testing but they don't what they are good at anymore, they just create some end to end scenarios.
 
 ## Blame the Bottleneck
 - "throw test automator at them." -Ira
@@ -74,4 +86,5 @@ As a tester now all of a sudden you're expected to be a car.
 
 ## Alternative patterns
 Experiment with these patterns:
+Product requires continuous exploration.
 ### 
