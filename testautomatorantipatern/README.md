@@ -67,12 +67,13 @@ As a tester now all of a sudden you're expected to be a car.
 Often times tester and test automator is the same person in the team. 
 Doing end to end testing is a time consuming activity. It happens at the end of the process after the development is done. 
 How do you balance between automation and exploration of the product? 
-Being responsible for both of these activities doesn't allow you to do good any of them.
-This way of organizing a team usually doesn't add quality to the product and creates problems.
+Being responsible for both of these activities doesn't allow you to do good any of them. Often I observe that automation is prioritized over exploration.
+This way of organizing a team usually doesn't add quality to the product and creates many problems.
 
 ## Blame the Bottleneck
 - "throw test automator at them." -Ira
-
+The biggest problem with this approach is that it creates silo, single person in the team has a monopoly on test automation. When something goes wrong, and it does happen quite often, everybody depends on this one person to fix it. 
+Very quicklu team members learn not to trust end to end tests. You can see it in their actions. They skip running it altogether. They re-run the tests without even looking at what failed. If that doesn't help, they point a finger at automator asking to look into it.
 ## The fall of the test automator
 - Creating bigger and bigger piles of unmaintainable and overengineered shit.
 
