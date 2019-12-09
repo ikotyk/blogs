@@ -41,23 +41,26 @@ Story:
 > "That's not the point where you make quality happen."
 > - Jochum Börger, about test automation (18-11-2019)
 
+# What is happening with the quality?
+Over the course of my career as a quality engineer, I have developed a deep passion for quality which goes way beyond the quality of software products and into the quality of interactions, quality of processes, and quality of work and life experience. I strive to bring quality to every aspect of my life. And it hurts me to see when quality is lacking. 
+
+When I started my career, the focus was on quality, nowadays it shifted to speed. We build more products than ever before and many of them are crappy. I believe it doesn't have to be this way and both quality and speed are possible, we just have to find a way to ensure both. 
 
 # What do you expect from a test automator?
-It happens from time to time; I join a new team and one of its members describes themselves as "test automator" (or, more commonly: test automation expert).
+It happens from time to time: I join a new team and one of its members describes themselves as "test automator" (or, more commonly: test automation expert).
 Not all teams have them, they don't seem to be a mandatory part.
 So, why do some teams need them where others do not?
 
 There must be some decisions leading up to these team compositions.
-What drives your hiring? How do you choose roles in a team? Compulsive pattern following? Do you reflect on these decisions? Do you get the value you expected?
+What drives your hiring? How do you choose roles for you teams? Is it about following a market trend? And most importantly, do you get the value you expected?
 
 ## The rise of the test automator
 > “If I had asked people what they wanted, they would have said faster horses.”
-> -Henry Ford
+> - Henry Ford
 
-Once upon a time there have been teams, and they were slow.
-These teams had testers, manual testers, doing manual regression testing. Not just that; they were slow testers.
+In the past there have been teams, and they were slow. They cared very much about the quality and therefore all of them had testers, manual testers, doing manual regression testing. As products grew bigger the regression testing effort was taking longer and longer. We couldn't continue like this anymore.
 
-Well, we want faster testers! What is the car equivilent to that? - Test automation!
+Well, we want faster testers! What is the car equivalent to that? - Test automation!
 
 The test automator was born.
 The tester, rissen from their ashes, not only doing testing faster, but doing it automatically.
@@ -93,7 +96,7 @@ This way of organizing a team usually doesn't add quality to the product and cre
 - "throw test automator at them." -Ira
 
 The biggest problem with this approach is that it creates silo, single person in the team has a monopoly on test automation. When something goes wrong, and it does happen quite often, everybody depends on this one person to fix it. 
-Very quicklu team members learn not to trust end to end tests. You can see it in their actions. They skip running it altogether. They re-run the tests without even looking at what failed. If that doesn't help, they point a finger at automator asking to look into it.
+Very quickly, team members learn not to trust end to end tests. You can see it by observing their actions. They skip running it altogether. They re-run the tests without even looking at what failed in hope it will pass this time. If that doesn't help, they point a finger at automator and ask to look into it.
 
 - Silos
 - Flaky, slow tests
