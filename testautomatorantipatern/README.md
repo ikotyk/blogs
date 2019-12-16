@@ -90,4 +90,4 @@ Good tester does that by providing quality perspective during various team event
 Great tester is pairing up with developers on the story and continuosly explores the product. 
 Excellent tester makes quality a team responsibility by sharing knowledge and coaching developers how to be better testers.
 
-What do you care about? Who do you hire?
+What do you care about? What is happening with quality in your organization?
