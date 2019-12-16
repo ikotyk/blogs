@@ -51,8 +51,10 @@ It happens from time to time: I join a new team and one of its members describes
 So, why do some teams need them where others do not? There must be some decisions leading up to these team compositions. What drives your hiring choices? How do you define roles for your teams? Is it about following a market trend? And most importantly, do you get the expected value?
 ## The rise of the test automator
 In the past, there have been teams, and they were slow. They cared much about the quality and therefore all of them had testers, doing testing and also manual regression testing. As products grew bigger, the regression testing effort was taking longer and longer. We couldn't continue like that anymore, we wanted to go faster.
+
 > “If I had asked people what they wanted, they would have said faster horses.”
 > Henry Ford
+
 Well, we want faster testers! What is the car equivalent to that? - Test automation! The test automator was born - the tester who is not only doing testing faster but doing it automatically.
 ## Wearing two hats
 As a tester, now all of a sudden, you're expected to be a car. You're getting a tune-up, learning some automation skills, devour one tool after another. The transformation is complete, now you proudly call yourself a test automation engineer. What is expected from you, a test automator? 
