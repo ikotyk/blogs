@@ -43,25 +43,39 @@ Story:
 
 ## What is happening with quality?
 Throughout my career as a quality engineer, I have developed a deep passion for quality which goes way beyond the quality of software products and into the quality of interactions, quality of processes, and quality of work and life experience. I strive to bring quality to every aspect of my life. And it hurts me to see when quality is lacking.
+
 When I started my career, market focus was on quality, nowadays it shifted to speed. We build more products than ever before and many of them are crappy. It doesn't have to be this way and both quality and speed are possible, we just have to find a way to ensure both.
 ## What do you expect from a test automator?
-It happens from time to time: I join a new team and one of its members describes themselves as "test automator" (or, more commonly: test automation expert). Not all teams have them, they don't seem to be a mandatory part. So, why do some teams need them where others do not? There must be some decisions leading up to these team compositions. What drives your hiring choices? How do you define roles for your teams? Is it about following a market trend? And most importantly, do you get the expected value?
+It happens from time to time: I join a new team and one of its members describes themselves as "test automator" (or, more commonly: test automation expert). Not all teams have them, they don't seem to be a mandatory part. 
+
+So, why do some teams need them where others do not? There must be some decisions leading up to these team compositions. What drives your hiring choices? How do you define roles for your teams? Is it about following a market trend? And most importantly, do you get the expected value?
 ## The rise of the test automator
 In the past, there have been teams, and they were slow. They cared much about the quality and therefore all of them had testers, doing testing and also manual regression testing. As products grew bigger, the regression testing effort was taking longer and longer. We couldn't continue like that anymore, we wanted to go faster.
 > “If I had asked people what they wanted, they would have said faster horses.”
 > Henry Ford
 Well, we want faster testers! What is the car equivalent to that? - Test automation! The test automator was born - the tester who is not only doing testing faster but doing it automatically.
 ## Wearing two hats
-As a tester, now all of a sudden, you're expected to be a car. You're getting a tune-up, learning some automation skills, devour one tool after another. The transformation is complete, now you proudly call yourself a test automation engineer. What is expected from you, a test automator? A brief look at job listings will reveal that expectation is to do both - automation and exploration. Some of the descriptions are specific enough to say that you should have an "automation first" attitude. So it is safe to assume that in most teams test automator is responsible to do both.
+As a tester, now all of a sudden, you're expected to be a car. You're getting a tune-up, learning some automation skills, devour one tool after another. The transformation is complete, now you proudly call yourself a test automation engineer. What is expected from you, a test automator? 
+
+A brief look at job listings will reveal that expectation is to do both - automation and exploration. Some of the descriptions are specific enough to say that you should have an "automation first" attitude. So it is safe to assume that in most teams test automator is responsible to do both.
+
 How do you prioritize and balance between automation and exploration of the product? Is it ok to do only one, or both poorly? What do you say No to? You can only spend time once.
+
 We value speed over quality attributes so much that we confuse the people guarding the quality of our product. We create a disbalance; prioritizing the automation of checks, that promise a future increase of speed by being repeatable, that we forget about building an actual quality product.
+
 Would you hire two a tester and a test automator?
 ## Blame the Bottleneck
 Every approach has it's pros and cons. While having automation engineers has many benefits, it also has some downsides. The biggest issue with this approach is that it creates silos, a single person in the team gets a monopoly on test automation. When something goes wrong, and it does often go wrong, the whole team(s) depends on one person to fix it. Very quickly, team members learn not to trust end to end tests. They get annoyed with it to the point they skip running it altogether. They re-run the tests without even looking at what failed hoping it will pass this time. If that doesn't help, they point a finger at automator and ask them to look into it.
+
 It seems obvious that having a single point of failure is bad, and yet so many companies design exactly that.
 ## Alternative patterns
 There is a solution to this silo problem - a team approach, testing as a team effort. Quality should be the team's responsibility.
+
 When it comes to test automation, developers are better skilled in designing and writing software, and test automation is nothing but software. They need testers perspective to identify what to test, so it should be done in close collaboration. It will also shift the focus back to quality and allow the tester to explore the product.
 ## Epilogue: The rise of the tester
-Tester guards the quality of the product throughout the whole process from idea to production. A good tester does that by providing quality perspective during various team events such as design sprints, refinement meetings, and three amigos sessions. A great tester is pairing up with developers on the story and continuously explores the product. An excellent tester makes quality a team responsibility by sharing knowledge and coaching developers on how to be better testers.
+Tester guards the quality of the product throughout the whole process from idea to production. 
+A good tester does that by providing quality perspective during various team events such as design sprints, refinement meetings, and three amigos sessions. 
+A great tester is pairing up with developers on the story and continuously explores the product. 
+An excellent tester makes quality a team responsibility by sharing knowledge and coaching developers on how to be better testers.
+
 What do you care about? What is happening with quality in your organization?
