@@ -44,12 +44,12 @@ Story:
 ## What is happening with quality?
 Throughout my career as a quality engineer, I have developed a deep passion for quality, which goes way beyond the quality of software products and into the quality of interactions, quality of processes, and quality of work and life experience. I strive to bring excellence to every aspect of my life. And it hurts me to see when greatness is lacking.
 
-When I started my career, the market focus was on quality; nowadays, it shifted to speed. We build more products than ever before, and many of them are not great. It doesn't have to be this way. Both quality and speed are possible; we have to find a way to ensure both.
+When I started my career, the market focus was on quality; nowadays, it shifted to speed. We build more products than ever before, and unfortunately many of them are far from great. It doesn't have to be this way. Both quality and speed are possible; we have to find a way to ensure both.
 
 ## What do you expect from a test automator?
 It happens from time to time; I join a new team, and one of its members describes themselves as 'test automator' (or, more commonly, 'test automation expert'). Not all groups have them; they don't seem to be a mandatory part.
 
-So, why do some teams need them where others do not? There must be some decisions leading up to these team compositions. What drives your hiring choices? How do you define roles for your teams? Is it about following a market trend? And most importantly, do you get the expected value?
+So, why do some teams need them where others do not? There must be some decisions leading up to these team compositions. What drives your hiring choices? How do you define roles for your teams? Is it about following a market trend? And above all, do you get the expected value?
 
 ## The rise of the test automator
 In the past, there have been teams, and they were slow. They cared much about the quality, and therefore all of them had testers, doing testing and manual regression testing. As products grew, the regression testing effort was taking longer and longer. We couldn't continue like that anymore; we wanted to go faster.
@@ -78,7 +78,7 @@ It seems obvious that having a single point of failure is terrible, and yet so m
 ## Alternative patterns
 There is a solution to this silo problem - a team approach, testing as a team effort. Quality should be the team's responsibility.
 
-When it comes to test automation, developers are better skilled in designing and writing software, and test automation is nothing but software. They need testers' perspective to identify what to test, so they should do it together in close collaboration with testers. It will also shift the focus back to quality and allow for more exploration of the product.
+When it comes to test automation, developers are better skilled in designing and writing software, and test automation is nothing but software. They need testers' perspective to identify what to test, so they should do it together in close collaboration. It will also shift the focus back to quality and allow for more exploration of the product.
 
 ## Epilogue: The rise of the tester
 Tester guards the quality of the product throughout the whole process, from idea to production. A good quality engineer does that by providing quality perspective during various team events such as design sprints, refinement meetings, and three amigos sessions. A great tester is pairing up with developers on the story and continuously explores the product. An excellent quality guardian makes quality a team responsibility by sharing knowledge and coaching developers on how to be better testers.
