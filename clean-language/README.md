@@ -1,5 +1,5 @@
 # Title
-> If you want to change the world, change the metaphor’
+> “If you want to change the world, you have to change the metaphor.”
 > - Joseph Campbell
 
 Start with clean question and example conversation to illustrate what it is like to have a clean conversation.
@@ -43,7 +43,7 @@ Sales
 Recruitment
 Techniques for professional communicators
 
-# What do we want to use it for
+## What do we want to use it for
 Help people to be open to change.
 
 Change is like what ?
