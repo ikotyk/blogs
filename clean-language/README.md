@@ -52,3 +52,5 @@ When you are in a best working environment you are like what?
 
 ## Contracts?
 Do we want to talk about contracts here?
+
+## We need an ending here, not sure what it should be
