@@ -87,3 +87,6 @@ A good tester does that by bringing quality perspective to various team events.
 A great tester is also pairing up with developers on the story and continuously explores the product.
 
 An excellent tester, a quality guardian, makes quality a team responsibility, and coaches developers to be better testers.
+
+
+_Co-written by [Jochum Börger](https://xebia.com/blog/author/jborgerxebia-com/)._
