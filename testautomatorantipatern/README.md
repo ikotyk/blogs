@@ -32,8 +32,7 @@ They couldn't continue like that anymore; they wanted to go faster.
 > "If I had asked people what they wanted, they would have said faster horses."
 > - Henry Ford
 
-Well, we want faster testers! What is the car equivalent to that?
-- Test automation! The test automator was born - a tester who is not only doing testing faster but doing it automatically.
+Well, we want faster testers! What is the car equivalent to that? - Test automation! The test automator was born - a tester who is not only doing testing faster but doing it automatically.
 
 ## Wearing two hats
 As a tester, now all of a sudden, you're expected to be a car.
