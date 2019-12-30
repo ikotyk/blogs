@@ -86,6 +86,8 @@ It seems obvious that having a single point of failure is terrible, and yet so m
 ## The fall of the test automator
 There is a solution to this silo problem - a team approach, testing as a team effort. Quality should be a team responsibility! Both quality and speed are possible.
 
+![Fast quality](images/3-cropped.png?raw=true "Fast quality")
+
 When it comes to test automation, developers are better skilled in designing and writing software, and test automation is nothing but software. Teams need a quality-oriented perspective to identify what to test, so testers and developers should work together in close collaboration.
 
 -- will also shift the focus back to quality and allow for more exploration of the product.
