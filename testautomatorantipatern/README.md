@@ -89,4 +89,4 @@ A great tester also pairs up with developers on the story and continuously explo
 An excellent tester, a quality guardian, makes quality a team responsibility, and coaches developers to be better testers.
 
 
-_Co-written by [Jochum Börger](https://xebia.com/blog/author/jborgerxebia-com/)._
+_Co-written with [Jochum Börger](https://xebia.com/blog/author/jborgerxebia-com/)._
