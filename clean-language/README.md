@@ -11,12 +11,11 @@ What is a metaphor? It is a figure of speech that describes an object or action 
 ### Metaphors change the way we think. - key message
 Did you know that on average we use six metaphors a minute? Surprised? Me too! They are so embedded into our speech that mostly we are unconscious about them. Research suggests that metaphors actually change the way we think of a concept on an unconscious level. In 2011 there was a study conducted in which two groups of readers have been presented with two articles describing the same crime. In the first article they compared it to a beast and in another to a disease. When asked to solve the crime issue, readers of the first article suggested control strategies while the second group came up with diagnostic or treatment strategies. So actually changing the metaphor changes how we think about the issue or an idea at hand.
 
-
 ### Metaphors are capable of changing your experience
 In communication we often fail to see the connection the other person is making in their head. So we declare it nonsense.
 It's no wonder that we clash with each other, because we assign different meaning to the same things.  
 In my clean language workshop it was an eye opening experience to observe a magnitude of metaphors people create in response to the same question.
-
+---------
 How metaphors work for me.
 With metaphors in your mind you can fly like a bird.
 It helps me to move forward, I get energy from the metaphor.
@@ -25,13 +24,31 @@ The energy is locked in dark (uncomfortable) metaphors.
 One word, multiple experiences - details of metaphors are unique.
 
 ## Clean language and clean questions
-Insert image with clean questions.
+Clean Language is a questioning technique used for discovering, exploring and working with people's own personal metaphors.
+Here are two most commonly used questions:
+What kind of ‘x’ is that 'x'?
+Is there anything else about ‘x’?
+(where ‘X’ is a word or phrase that the client has used)
 
 ## Personal experience with clean language
-Experience before and after clean language
+With clean language I have come to realization that my own metaphors are not just words I use to describe my experiences. They are the views into the models running my life and defining my behavior. Recently, my friend and I have been exploring our learning experiences with the help of clean questions. Here is how our conversation looked like:
+F: When you are learning it is like what?
+I: I am like a sponge.
+F: You are like a sponge, and what kind of sponge is that sponge?
+I: It is a dry, yellow, hour glass shaped sponge.
+F: And it is a dry, yellow, hour glass shaped sponge, is there anything else about that dry?
+I: It absorbs all the knowledge like water.
+F: And when it absorbs all the knowledge what happens next?
+I: And then it is full and water starts to spill over and it cannot absorb anymore; and then, over time, it dries out...
+F: What would you like to have happen?
+I: I would like my knowledge stay with me instead of drying out. And I want to keep learning indefinitely without being limited by saturated sponge.
+
+This is the moment of deep realization of something profound about my way of learning. This is exactly what I experience, I am a lifelong learner, but the knowledge tends to dry out over time, sometimes to the point that I can read the same book as if for the first time. This kind of epiphany makes me want to change my metaphor. Before I was proud of being a sponge-learner, now I see it's limitations.
+
+By exploring metaphors of other people I help them understand themselves better and also get a view into their worlds and can upgrade my own metaphors.
 
 ## Applications of clean language
-
+There are numerous applications of clean language. It is a perfect tool for one on one coaching. It can also be applied in a team setting and be used for conflict resolution, team development and motivation, joint understanding and focus and many many more.
 ### Coaching
 Executive Coaching
 1*1 coaching
@@ -42,12 +59,13 @@ Conflict resolution
 Team development and motivation
 Train an promote attentive listening
 Joint understanding and focus
-Discover your own patterns and detect patterns of others
-Self awareness and acceptance of others (From contempt to curiosity)
 Feedback tool
+
 Strengthening relationships
 Train your memory(if you struggle to repeat what the other person said)
 Empathy, understanding, clarity of communication, neutrality, objectivity
+Discover your own patterns and detect patterns of others
+Self awareness and acceptance of others (From contempt to curiosity)
 
 ### Other applications
 Gathering requirements for projects
