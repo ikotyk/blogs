@@ -15,7 +15,7 @@ Did you know that on average we use six metaphors a minute? Surprised? Me too! T
 In communication we often fail to see the connection the other person is making in their head. So we declare it nonsense.
 It's no wonder that we clash with each other, because we assign different meaning to the same things.  
 In my clean language workshop it was an eye opening experience to observe a magnitude of metaphors people create in response to the same question.
----------
+
 How metaphors work for me.
 With metaphors in your mind you can fly like a bird.
 It helps me to move forward, I get energy from the metaphor.
@@ -48,7 +48,18 @@ This is the moment of deep realization of something profound about my way of lea
 By exploring metaphors of other people I help them understand themselves better and also get a view into their worlds and can upgrade my own metaphors.
 
 ## Applications of clean language
-There are numerous applications of clean language. It is a perfect tool for one on one coaching. It can also be applied in a team setting and be used for conflict resolution, team development and motivation, joint understanding and focus and many many more.
+There are numerous applications of clean language. It is a perfect tool for one-on-one coaching and is often used for executive coaching. Using clean questions, the coach helps their clients discover the limiting patterns and beliefs that hold them back, reinforce positive beliefs, make unconscious knowledge conscious. 
+Client also get to experience an exquisite attention to their words. It is unique in itself as usually people listen to respond and the skill of listening becomes a rare phenomenon. 
+
+Clean language can also be applied in a team setting and be used for conflict resolution, team development and motivation, joint understanding and focus. 
+Every team is going thru these development stages: forming, storming, norming and performing. The most challenging one and emotionally draining is storming. During this phase team members tend to disagree a lot and conflicts are not uncommon. It is possible to minimize the duration of this stage by equipping the teams with the clean questions as a conflict resolution technique that will bring them closer into their optimal performance. 
+
+My favorite part of clean language and technique I used most often is a clean setup. It is very simple, it only has 3 questions:
+For ... to go just as you'd like, it will be like what?
+You'd like to be like what?
+What support or resources do you need?
+I use it for various meetings to set up the stage and cater for the desires and expectations of each participant. What is the most amazing about it is that most of the time it goes just as we'd like and we get exactly what we wanted. It keeps consistently delivering a positive result.
+
 ### Coaching
 Executive Coaching
 1*1 coaching
