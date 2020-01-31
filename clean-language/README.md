@@ -1,8 +1,27 @@
+MASTER VERSION
+
 # Title
 > “If you want to change the world, you have to change the metaphor.”
 > - Joseph Campbell
 
-Start with clean question and example conversation to illustrate what it is like to have a clean conversation.
+Start with clean question and example conversation to illustrate what it is like to have a clean conversation:
+(Q) for you to have a great Xebia Knowledge Exchange, it will be like what
+(A) it will be like a radar system of an old skool watch
+(Q) is there more about the radar system of the old skool watch
+(A) They are strong radars that have the power to bring forth other radars
+(Q) and whereabouts is that strong radars that have the power to bring forth other radars
+(A) its in my body
+(Q) is there more about the radar system of the old skool watch?
+(A) it is moving
+(Q) and the moving radar system, it is like what?
+(A) one big energy field
+(Q) what kind of energy field
+(A) an energy field that grows
+(Q) where is that energy field
+(A) all around me (and growing)
+(Q) then what happens
+(A) I move that energy towards others
+(Q) ...
 
 ## The power of metaphor
 ### Metaphors improve comprehension
@@ -65,11 +84,19 @@ Executive Coaching
 1*1 coaching
 
 ### Clean language for teams
-Team meetings
+
+#### Team meetings
+When team members communicate, they often communicate from their own 'perspective' (background, expectations, goals, etc)
+this 'perspective' can make it hard to understand eachother. When their communication lacks 'flow', their output will hurt in some way.
+
 Conflict resolution
+
 Team development and motivation
+
 Train an promote attentive listening
+
 Joint understanding and focus
+
 Feedback tool
 
 Strengthening relationships
