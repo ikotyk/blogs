@@ -3,8 +3,7 @@ MASTER VERSION
 # Title
 > “If you want to change the world, you have to change the metaphor.”
 > - Joseph Campbell
-
-Start with clean question and example conversation to illustrate what it is like to have a clean conversation:
+@@ Bridge the quote with the dialog.
 (Q) for you to have a great Xebia Knowledge Exchange, it will be like what
 (A) it will be like a radar system of an old skool watch
 (Q) is there more about the radar system of the old skool watch
@@ -22,7 +21,7 @@ Start with clean question and example conversation to illustrate what it is like
 (Q) then what happens
 (A) I move that energy towards others
 (Q) ...
-
+@@ Bridge with the next chapter.
 ## The power of metaphor
 ### Metaphors improve comprehension
 What is a metaphor? It is a figure of speech that describes an object or action in a way that isn’t literally true, but helps explain an idea or make a comparison. The best ones link something which is less understood to something which is more understood. As a result, good metaphors improve our comprehension of the ideas we might have not understood otherwise. Metaphors add colours to the story and make it "sticky". They enable us to show instead of tell.
@@ -123,3 +122,10 @@ When you are in a best working environment you are like what?
 Do we want to talk about contracts here?
 
 ## We need an ending here, not sure what it should be
+
+
+
+TODO
+- clean setup
+- checklist (where are we now, what do we still have to work on)
+- @Joel: first review what we have and feedback
