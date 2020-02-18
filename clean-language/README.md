@@ -23,7 +23,7 @@ MASTER VERSION
 (Q) ...
 
 
-[//]: # (Bridge with the next chapter)
+<!-- Bridge with the next chapter) -->
 
 ## The power of metaphor
 ### Metaphors improve comprehension
