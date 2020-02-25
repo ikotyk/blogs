@@ -75,8 +75,12 @@ What support or resources do you need?
 I use it for various meetings to set up the stage and account for the desires and expectations of each participant. What is the most amazing about it is that most of the time it goes just as we'd like and we get exactly what we wanted. It keeps consistently delivering a desired result.
 
 ## Contracts?
-Do we want to talk about contracts here? Don't use it without an explicit agreement.
-talk about 2-3 question (otherwise it is therapy) Explain why 2-3, give short history.
+With all great effects that Clean Language can have, we want to point out a simple ‘rule of thumb’: use only 3 consecutively clean questions around a single metaphor or subject for the sake of the psychological safety of the questionee. With Clean Questions, you can stir deeper ‘layers’ or emotions and you must be able to support that. So it is our sound advice to not go deeper than ‘level 3’. But do not worry, even if you do not go ‘that deep’, there is still lots to explore when you use Clean Language to that degree.
+ 
+To understand a bit about the background of CL, let me take you to its origin(ator?)
+Clean Language is founded in the 80’s by the New Zealander David Grove, a partly Maori / British Psychotherapist back in the days while working with people with traumatic memories. Grove realized that many clients were describing their symptoms in metaphors being ‘steered’ by the therapists (you could call that ‘unclean’) instead of their own experience (‘clean’).
+ 
+As part of this Clean Language - approach, he then developed a set of clean questions to support the client identifying his metaphors.
 
 ## We need an ending here, not sure what it should be
 Call to action. What do you want the reader to do with this information?
