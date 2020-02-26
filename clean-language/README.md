@@ -4,6 +4,9 @@ MASTER VERSION
 > “If you want to change the world, you have to change the metaphor.”
 > - Joseph Campbell
 
+Complexity of our world is growing. It means that there is no single person who knows the answers to the problems we are dealing with. Dealing with complex problems requires other approach, it requires collaboration - people with diverse perspectives working together. The heart of collaboration is communication. Having effective communication techniques in place becomes the necessity for our success. Link these two sentences. We must invest in communication skills if we want to prepare for the future and maintain the competitive edge.
+There are many tools one can learn to improve his communication skills. Today we would like to talk about one of them -  Clean Language.
+
 @@ Bridge the quote with the dialog.
 (Q) for you to have a great Xebia Knowledge Exchange, it will be like what
 (A) it will be like a radar system of an old skool watch
@@ -37,7 +40,7 @@ In my clean language workshop it was an eye opening experience to observe a magn
 
 ## Clean language and clean questions
 Clean Language is a questioning technique used for discovering, exploring and working with people's own personal metaphors.
-Clean means the questioner uses only the words of the "questionee" without adding their own interpretations. This way the language of the questioner is *clean* from their own words.
+Clean means the questioner only uses the words of the "questionee" without adding their own interpretations. This way the language of the questioner is *clean* from their own words.
 Here are two most commonly used questions:
 What kind of ‘x’ is that 'x'?
 Is there anything else about ‘x’?
@@ -78,11 +81,17 @@ I use it for various meetings to set up the stage and account for the desires an
 Do we want to talk about contracts here? Don't use it without an explicit agreement.
 talk about 2-3 question (otherwise it is therapy) Explain why 2-3, give short history.
 
+With all great effect that Clean Language can have, we want to point out a simple ‘rule of thumb’: use only 3 consecutively clean questions around a single metaphor or subject for the sake of the psychological safety of the questionee. With Clean Questions you can stir deeper ‘layers’ or emotions and it is important that you are able to support that. So it is our sound advice to not go deeper than ‘level 3’. But do not worry, even if you do not go ‘that deep’ , there is still lots to explore when you use Clean Language to that degree.
+@Joel talk about contracts and agreements.
+
 ## We need an ending here, not sure what it should be
 Call to action. What do you want the reader to do with this information?
-To learn more, try it out, discover some of their metaphors, change their team.
+To learn more, try it out, discover some of their metaphors, change their team/organization/themselves.
 Connect to the quote we started with. Talk about how the reader wants to change his/her world and the scale of the change he envisions. Is it a personal change, the team change, or perhaps organizational.
+
 When you are at work, at your best, it is like what?
+
+We all have aspirations big and small. We all want to change something, only the scale is different. Maybe you want to improve your own communication style, or maybe you are dreaming of improving collaboration in your team, or even your organization  
 
 
 
