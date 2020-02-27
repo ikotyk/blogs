@@ -100,6 +100,7 @@ We all have aspirations big and small. We all want to change something, only the
 
 
 TODO
-- clean setup
-- checklist (where are we now, what do we still have to work on)
-- @Joel: first review what we have and feedback
+- make the blog about clean language, think how to embed it into each paragraph
+- make example clean conversations shorter
+- glue sections together
+- create ending
