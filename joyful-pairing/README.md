@@ -1,64 +1,45 @@
-Step 1: Identify your goal & target group
-Goal: Promote pairing so that there is more joy in people’s lives.
-Target group: Anyone doing creative work in groups.
+# A social contract for joyful pairing
+One of my favorite practices in software development is pairing, more specifically, joyful pairing.
+This article is not about the benefits of pair programming; it is about the *joyful* part.
+More insight on the what and how of pair programming can be found in this excellent article: [On Pair Programming](https://martinfowler.com/articles/on-pair-programming.html).
 
-·  	Who is my target audience?
-·  	What is the purpose of the text?
-·  	What do I want to achieve/the text to do? (What do you want the reader to do afterward)
-People get inspired and start pairing the right way.
-·  	Is the topic relevant to your target group? (What are they looking for / what would we like to learn/know about?)
-yes
+When we utilize this pairing practice in our daily work, we should enjoy it!
+Enjoying our work has a positive impact on stress levels and our general health.
+The feeling of joy while pairing increases motivation and the likeliness of continued pairing in the future.
 
-Step 2: Determine search words and synonyms (keywords)
-Determine search terms and synonyms based on your subject.
-The number of keywords you’ll need depends on the length of your text.
-(You will use one search term/keyword for every 200 words of text.)
+Given the benefits of pairing and enjoying work, how can we increase the chances of joyful pairing?
+Pairing is a social activity, and, when done wrong, it can feel uncomfortable and exhausting.
+There are a few guidelines to inspire a social contract and strengthen the likelihood of joyful pairing in the upcoming sections.
 
-·  	Main search term (Example: agile transformation)
-Joyful pairing, successful pairing, joyful collaboration, successful collaboration, programming with fast feedback, creativity 2.0, quality pairing, quality collaboration,
-Creative successful pairing 2.0
-·  	Supported search terms (One term per 200 words of text - Example: agile strategy, etc.)
-joyful collaboration, creative pairing, fast feedback, higher quality of outcome, knowledge sharing, shared understanding
-·  	Synonyms based on the search terms (Example: how to implement agile)
-Teamwork,  working together, co-creation, joint effort;  inventive, innovative, resourceful; rapid, speedy, swift feedback; pleasant, enjoyable, on cloud nine; exchange, spreading, distribution; understanding, awareness, expertise, intelligence distribution, comprehension; insight, empathy, sense, sensible, wisdom, thoughtful;
-------------------------------------------------------------------
+## Feedback without judgment
+Most people will probably be familiar with the situation in which you seemingly lose all ability to type as soon as someone observes you.
+People new to pairing might recollect these situations and feel uncomfortable before they even start.
+They fear their fingers will betray them, or they suddenly forget how to program.
+They fear being judged.
 
+Pairing can be a very vulnerable exercise. You show work in progress, knowledge gaps, thinking process.
+When I pair with someone new to pairing, I mostly make sure I am the one typing at the start.
+I show my partner I make a lot of mistakes, have to look up basics, and need multiple tries to get something right; and that I'm ok showing that.
 
-Five things to have in a social contract for joyful pairing
+Your social contract for joyful pairing needs to include the section: no judgment allowed.
+Pointing out overlooked errors, sharing an alternate view, or discussing the drawbacks of a particular solution, are all fine.
+A benefit of pairing is fast feedback.
+This feedback can be without judgment.
+For a joyful pairing, you need trust and acceptance, to make the vulnerability less daunting.
 
-What you will get out of it on the feelings level:
-Connectedness
-Fun
-Creativity
-Inspiration
-Inclusion
-Feeling of growth
+## Predictable breaks
+Duration, speed, breaks, switch roles
 
-What you will get out of it in terms of outcomes:
-Quality
-Fast Feedback
-knowledge sharing
-Talking improves understanding
+## Do out loud
+Think out loud, say what you're doing
+Do out loud, so your partner can follow you.
+Think out loud. Talking improves understanding.
+https://wiki.c2.com/?ThinkingOutLoud
+Rubber Ducking
+https://digest.bps.org.uk/2018/12/07/meta-analysis-of-64-studies-involving-6000-participants-finds-that-self-explanation-is-a-powerful-learning-technique/
 
-Prerequisites:
-Trust
-Acceptance
-Courage to be vulnerable
-Talk during the pairing session
-align the speed (slow down)
+## Include everyone
+Inclusion, pair with different people / roles
 
-What not to do, or what happens if prerequisites are not there:
-Uncomfortable if judgement is on
-Merge - diverge, do not diverge too soon
-Duration, breaks, pomodoro, 3/4
-Never force it, apply responsibly
-
-
-What to do:
-pair with a tester
-Don't give up
-
-
-Convincing stories:
-Exchanging apples vs exchanging ideas
-You can learn something from someone sweeping the floor
+## Inspect and adapt
+Give it some time, don't force it, and reflect
