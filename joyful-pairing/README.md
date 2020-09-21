@@ -22,10 +22,10 @@ When I pair with someone new to pairing, I mostly make sure I am the one typing 
 I show my partner I make a lot of mistakes, have to look up basics, and need multiple tries to get something right; and that I'm ok showing that.
 
 Your social contract for joyful pairing needs to include the section: no judgment allowed.
-Pointing out overlooked errors, sharing an alternate view, or discussing the drawbacks of a particular solution, are all fine.
+Pointing out overlooked errors, sharing an alternative view, or discussing the drawbacks of a particular solution, are all fine.
 A benefit of pairing is fast feedback.
 This feedback can be without judgment.
-For a joyful pairing, you need trust and acceptance, to make the vulnerability less daunting.
+For joyful pairing you need to build trust and acceptance, to make the vulnerability less daunting.
 
 ## Predictable breaks
 Duration, speed, breaks, switch roles
