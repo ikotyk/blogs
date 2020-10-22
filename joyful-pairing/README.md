@@ -41,7 +41,7 @@ The [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique), or s
 
 Additionally, not every activity lends itself to pairing, and not every person has the same affinity for pairing.
 When considering all the benefits of pairing, don't forget to consider the benefits of doing work alone.
-So not only take breaks during paring but also, for some activities, take a break from pairing.
+So not only take breaks during pairing but also, for some activities, take a break from pairing.
 
 ## Do out loud
 Think out loud, say what you're doing
