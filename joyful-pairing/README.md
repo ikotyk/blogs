@@ -9,7 +9,7 @@ The feeling of joy while pairing increases motivation and the likeliness of cont
 
 Given the benefits of pairing and enjoying work, how can we increase the chances of joyful pairing?
 Pairing is a social activity, and, when done wrong, it can feel uncomfortable and exhausting.
-There are a few guidelines to inspire a social contract and strengthen the likelihood of joyful pairing in the upcoming sections.
+In the upcoming section, I suggest a few guidelines to inspire a social contract and strengthen the likelihood of joyful pairing.
 
 ## Feedback without judgment
 Most people will probably be familiar with the situation in which you seemingly lose all ability to type as soon as someone observes you.
@@ -17,18 +17,31 @@ People new to pairing might recollect these situations and feel uncomfortable be
 They fear their fingers will betray them, or they suddenly forget how to program.
 They fear being judged.
 
-Pairing can be a very vulnerable exercise. You show work in progress, knowledge gaps, thinking process.
+Pairing can be a very vulnerable exercise.
+You show work in progress, knowledge gaps, thinking process.
 When I pair with someone new to pairing, I mostly make sure I am the one typing at the start.
-I show my partner I make a lot of mistakes, have to look up basics, and need multiple tries to get something right; and that I'm ok showing that.
+I show my partner I make a lot of mistakes, that I have to look up basics, and need multiple tries to get something right; and that I'm ok showing that.
 
 Your social contract for joyful pairing needs to include the section: no judgment allowed.
-Pointing out overlooked errors, sharing an alternative view, or discussing the drawbacks of a particular solution, are all fine.
-A benefit of pairing is fast feedback.
-This feedback can be without judgment.
-For joyful pairing you need to build trust and acceptance, to make the vulnerability less daunting.
+Pointing out overlooked errors, sharing an alternative view, or discussing the drawbacks of a particular solution, are all important.
+One of the benefits of pairing is fast feedback.
+This feedback, however, can be without judgment.
+For joyful pairing, you need to build trust and acceptance to make the vulnerability less daunting.
 
 ## Predictable breaks
-Duration, speed, breaks, switch roles
+Even if the activity of pairing is going well, I have found that the intensity of it can be tiring.
+This intensity is caused by one of the benefits of pairing; focus.
+Filling an 8-hour workday with 8 hours of pairing has the potential to fry your brain.
+One way to counter this is to take regular breaks.
+
+I have found that, when I'm working from home a lot of the time, regular breaks aren't enough.
+When sitting next to someone, it is a lot easier to pick up non-verbal signals.
+Someone will often show they need a break before they say it, even if there is a lot of trust.
+The [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique), or something similar, helps take regular breaks and makes them scheduled, predictable.
+
+Additionally, not every activity lends itself to pairing, and not every person has the same affinity for pairing.
+When considering all the benefits of pairing, don't forget to consider the benefits of doing work alone.
+So not only take breaks during paring but also, for some activities, take a break from pairing.
 
 ## Do out loud
 Think out loud, say what you're doing
@@ -39,7 +52,7 @@ Rubber Ducking
 https://digest.bps.org.uk/2018/12/07/meta-analysis-of-64-studies-involving-6000-participants-finds-that-self-explanation-is-a-powerful-learning-technique/
 
 ## Include everyone
-Inclusion, pair with different people / roles
+Inclusion, pair with different people / roles, speed, switch roles(?)
 
 ## Inspect and adapt
 Give it some time, don't force it, and reflect
