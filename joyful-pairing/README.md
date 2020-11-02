@@ -1,6 +1,7 @@
 # A social contract for joyful pairing
+
 One of my favorite practices in software development is pairing, more specifically, joyful pairing.
-This article is not about the benefits of pair programming; it is about the *joyful* part.
+This article is not about the benefits of pair programming; it is about the _joyful_ part.
 More insight on the what and how of pair programming can be found in this excellent article: [On Pair Programming](https://martinfowler.com/articles/on-pair-programming.html).
 
 When we utilize this pairing practice in our daily work, we should enjoy it!
@@ -12,6 +13,7 @@ Pairing is a social activity, and, when done wrong, it can feel uncomfortable an
 In the upcoming section, I suggest a few guidelines to inspire a social contract and strengthen the likelihood of joyful pairing.
 
 ## Feedback without judgment
+
 Most people will probably be familiar with the situation in which you seemingly lose all ability to type as soon as someone observes you.
 People new to pairing might recollect these situations and feel uncomfortable before they even start.
 They fear their fingers will betray them, or they suddenly forget how to program.
@@ -29,6 +31,7 @@ This feedback, however, can be without judgment.
 For joyful pairing, you need to build trust and acceptance to make the vulnerability less daunting.
 
 ## Predictable breaks
+
 Even if the activity of pairing is going well, I have found that the intensity of it can be tiring.
 This intensity is caused by one of the benefits of pairing; focus.
 Filling an 8-hour workday with 8 hours of pairing has the potential to fry your brain.
@@ -43,16 +46,27 @@ Additionally, not every activity lends itself to pairing, and not every person h
 When considering all the benefits of pairing, don't forget to consider the benefits of doing work alone.
 So not only take breaks during pairing but also, for some activities, take a break from pairing.
 
-## Do out loud
-Think out loud, say what you're doing
-Do out loud, so your partner can follow you.
-Think out loud. Talking improves understanding.
-https://wiki.c2.com/?ThinkingOutLoud
-Rubber Ducking
-https://digest.bps.org.uk/2018/12/07/meta-analysis-of-64-studies-involving-6000-participants-finds-that-self-explanation-is-a-powerful-learning-technique/
+## Think out loud
+
+After pairing with someone for a long time, it sometimes happens you enter a state where you seem to read each other's minds.
+However, before we enter this state, we need to assume we have to speak our thoughts before our partner knows what they are.
+Communicating your thoughts to each other goes both ways.
+
+When you're in the driver seat, when you control the input devices, it is easy to confuse your partner by scrolling or using shortcuts.
+These actions are a consequence of some thought you had.
+Maybe you want to quickly check something in another area of a file or search for another phrase's occurrence.
+Let your partner know what you're doing and why, so they don't get lost.
+
+Some developers, even when they don't pair, talk through a problem out loud.
+This technique is known as "[Rubber Ducking](https://en.wikipedia.org/wiki/Rubber_duck_debugging)."
+Talking through a problem improves the understanding of the problem.
+An essential benefit of pairing is the ability to work through a problem together.
+You don't have to be talking all the time, just enough that it's clear what's happening for everyone involved.
 
 ## Include everyone
+
 Inclusion, pair with different people / roles, speed, switch roles(?)
 
 ## Inspect and adapt
+
 Give it some time, don't force it, and reflect
