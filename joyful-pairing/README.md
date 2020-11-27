@@ -9,7 +9,7 @@ Enjoying our work has a positive impact on stress levels and our general health.
 The feeling of joy while pairing increases motivation and the likeliness of continued pairing in the future.
 
 Given the benefits of pairing and enjoying work, how can we increase the chances of joyful pairing?
-Pairing is a social activity, and, when done wrong, it can feel uncomfortable and exhausting.
+Pairing is a social activity, and when done wrong, it can feel uncomfortable and exhausting.
 In the upcoming section, I suggest a few guidelines to inspire a social contract and strengthen the likelihood of joyful pairing.
 
 ## Feedback without judgment
@@ -22,7 +22,7 @@ They fear being judged.
 Pairing can be a very vulnerable exercise.
 You show work in progress, knowledge gaps, thinking process.
 When I pair with someone new to pairing, I mostly make sure I am the one typing at the start.
-I show my partner I make a lot of mistakes, that I have to look up basics, and need multiple tries to get something right; and that I'm ok showing that.
+I show my partner I make a lot of mistakes, that I have to look up basics, and need multiple tries to get something right, and that I'm ok showing that.
 
 Your social contract for joyful pairing needs to include the section: no judgment allowed.
 Pointing out overlooked errors, sharing an alternative view, or discussing the drawbacks of a particular solution, are all important.
@@ -52,7 +52,7 @@ After pairing with someone for a long time, it sometimes happens you enter a sta
 However, before we enter this state, we need to assume we have to speak our thoughts before our partner knows what they are.
 Communicating your thoughts to each other goes both ways.
 
-When you're in the driver seat, when you control the input devices, it is easy to confuse your partner by scrolling or using shortcuts.
+When you're in the driver's seat, when you control the input devices, it is easy to confuse your partner by scrolling or using shortcuts.
 These actions are a consequence of some thought you had.
 Maybe you want to quickly check something in another area of a file or search for another phrase's occurrence.
 Let your partner know what you're doing and why, so they don't get lost.
@@ -65,7 +65,21 @@ You don't have to be talking all the time, just enough that it's clear what's ha
 
 ## Include everyone
 
-Inclusion, pair with different people / roles, speed, switch roles(?)
+Pairing with different people or various kinds of roles can also have distinct benefits.
+You can pair with someone you've collaborated with often and be very productive.
+Or you can pair with a new team member and transfer knowledge.
+Or you can pair with someone who has a different perspective and learn another approach.
+
+As a team, we want to be effective.
+When two people are productive and pairing, but two others are not adequately onboarded and barely progressing, this is not effective.
+It's vital to make conscious choices about the goals to achieve by pairing.
+The goal has not only implications on who are pairing together.
+It also affects the speed, the amount of discussion, and who's in the driver's seat.
+
+Don't forget to include all team members.
+It doesn't seem typical for a developer to pair with someone in the role of a tester.
+However, it can be very beneficial.
+Try pairing while doing Exploratory Testing, or try pairing while doing Test Driven Development; you might just be surprised.
 
 ## Inspect and adapt
 
