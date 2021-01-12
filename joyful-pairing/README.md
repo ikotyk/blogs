@@ -83,4 +83,15 @@ Try pairing while doing Exploratory Testing, or try pairing while doing Test Dri
 
 ## Inspect and adapt
 
-Give it some time, don't force it, and reflect
+In the previous sections, I've laid out several practices I deem essential, based on my experiences pairing with people.
+My experience.
+The things that are important to you in your pairing relationships might be different.
+It is important to keep reflecting.
+Do you need to change the parameters of certain practices?
+Are there even other practices more suitable for your environment?
+Keep in mind that pairing should be a joyful activity; what can you change to make it more joyous to you, to the people you pair with?
+
+Pairing can be very uncomfortable; when you are new to pairing, when pairing with someone new, or pairing on something in a domain unfamiliar to you.
+These guidelines help, but there is no instant effect.
+Building a joyful pairing relationship also takes time and practice.
+So, give it time. And at the same time, don't try to force it.
