@@ -10,7 +10,7 @@ The feeling of joy while pairing increases motivation and the likeliness of cont
 
 Given the benefits of pairing and enjoying work, how can we increase the chances of joyful pairing?
 Pairing is a social activity, and when done wrong, it can feel uncomfortable and exhausting.
-In the upcoming section, I suggest a few guidelines to inspire a social contract and strengthen the likelihood of joyful pairing.
+In the upcoming sections, I suggest a few guidelines to inspire a social contract and strengthen the likelihood of joyful pairing.
 
 ## Feedback without judgment
 
